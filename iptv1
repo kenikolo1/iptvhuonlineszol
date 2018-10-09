@@ -147,6 +147,5 @@ http://92.61.114.159:7812/slagerfm256.mp3
 http://92.61.114.195:13100/stream
 #EXTINF:-1,HURadio | Kék Duna Rádió
 http://stream1.kekduna.hu:7006/1-hot.mp3
- #EXTINF:0 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/09/szunetlogopng-e1536087742585-292x300.png"
 #EXTINF:-1,HURadio | Szünet Rádió 
 http://92.61.114.191:1101/stream
