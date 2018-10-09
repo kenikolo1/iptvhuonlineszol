@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,HU | M1
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1
 https://c201-node62-cdn.connectmedia.hu/6090/00df374420db210a961907e9481d90a9/5bbbb3d7/index_hu.m3u8
-#EXTINF:-1,HU | M2
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
 https://c402-node61-cdn.connectmedia.hu/6180/f075e5a95bd18580d53c09e312f89d8f/5bbbb3eb/index_hu.m3u8
 #EXTINF:-1,HU | M5
 https://c202-node61-cdn.connectmedia.hu/2005/11ada38fe5adc2066284233322c61e4c/5bbbb3fd/index.m3u8
