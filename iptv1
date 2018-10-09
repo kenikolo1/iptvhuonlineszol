@@ -11,18 +11,16 @@ https://c402-node61-cdn.connectmedia.hu/6175/188ea5eb0b46ba5fb79a95ca11928d54/5b
 https://c401-node61-cdn.connectmedia.hu/6176/5ddb9a103641983037b590c7ab048c10/5bbbb428/index_hu.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
 https://c401-node62-cdn.connectmedia.hu/6676/a31a677881fe4f5da1f26898d846658b/5bbbb256/index.m3u8
-#EXTINF:-1,HU | Film4
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6254.png",HU | Film4
 https://c202-node62-cdn.connectmedia.hu/13390/4bb60d7703868bf52f8db9c32dd142e6/5bbbb218/index.m3u8
-#EXTINF:-1,HU | Story4
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6185.png",HU | Story4
 https://c202-node62-cdn.connectmedia.hu/13391/c7728101bde969753876b4da36104776/5bbbb243/index.m3u8
-#EXTINF:-1,HU | ATV (1 órás késleltetés!)
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV (1 órás késleltetés!)
 http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_1_aac/playlist.m3u8
-#EXTINF:-1,HU | FIX TV
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/fixhd",HU | FIX TV
 rtmp://video.fixhd.tv:1935/fix/sd.stream
-#EXTINF:-1,HU | FIX TV (HD)
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/fixhd",HU | FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
-#EXTINF:-1,HU | EuroNews
-https://redirect.onlinestream.hu/euronews.m3u8
 #EXTINF:-1,HU | Fishing & Hunting
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
 #EXTINF:-1,HU | National Geographic
