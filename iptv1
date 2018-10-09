@@ -3,13 +3,13 @@
 https://c201-node62-cdn.connectmedia.hu/6090/00df374420db210a961907e9481d90a9/5bbbb3d7/index_hu.m3u8
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
 https://c402-node61-cdn.connectmedia.hu/6180/f075e5a95bd18580d53c09e312f89d8f/5bbbb3eb/index_hu.m3u8
-#EXTINF:-1,HU | M5
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
 https://c202-node61-cdn.connectmedia.hu/2005/11ada38fe5adc2066284233322c61e4c/5bbbb3fd/index.m3u8
-#EXTINF:-1,HU | Duna
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna
 https://c402-node61-cdn.connectmedia.hu/6175/188ea5eb0b46ba5fb79a95ca11928d54/5bbbb415/index_hu.m3u8
-#EXTINF:-1,HU | Duna World
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
 https://c401-node61-cdn.connectmedia.hu/6176/5ddb9a103641983037b590c7ab048c10/5bbbb428/index_hu.m3u8
-#EXTINF:-1,HU | Viasat 3
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
 https://c401-node62-cdn.connectmedia.hu/6676/a31a677881fe4f5da1f26898d846658b/5bbbb256/index.m3u8
 #EXTINF:-1,HU | Film4
 https://c202-node62-cdn.connectmedia.hu/13390/4bb60d7703868bf52f8db9c32dd142e6/5bbbb218/index.m3u8
@@ -125,21 +125,21 @@ rtmp://stream.r6.hu:1935/livepkgr/ltv
 http://tv.hegyvidek.hu:80/stream_mpeg.flv
 #EXTINF:-1,HU | Tisza TV
 http://www.tiszatv.hu:443/tiszatv.f4v
-#EXTINF:-1,HURadio | MR1 Kossuth Rádió
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR1-Kossuth-Radio-logo-300x300.png",HURadio | MR1 Kossuth Rádió
 http://mr-stream.mediaconnect.hu/4734/mr1.aac
-#EXTINF:-1,HURadio | MR2 Petőfi Rádió
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR2-Petofi-Radio-logo-300x300.png",HURadio | MR2 Petőfi Rádió
 http://mr-stream.mediaconnect.hu:80/4738/mr2.mp3
-#EXTINF:-1,HURadio | MR3 Bartók Rádió
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR3-Bartok-Radio-logo-300x300.png",HURadio | MR3 Bartók Rádió
 http://mr-stream.mediaconnect.hu/4739/mr3.aac
-#EXTINF:-1,HURadio | MR7 Dankó Rádió
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR6-Danko-Radio-logo-300x300.png",HURadio | MR7 Dankó Rádió
 http://mr-stream.mediaconnect.hu/4747/mr7.aac
-#EXTINF:-1,HURadio | Retro Rádió
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6204.png",HURadio | Retro Rádió
 http://stream.retroradio.hu/mid.mp3
-#EXTINF:-1,HURadio | 96.4 Rádió 1 Budapest
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/radio1_slider_logo-150x150.jpg",HURadio | 96.4 Rádió 1 Budapest
 http://213.181.210.106:80/mid.mp3
-#EXTINF:-1,HURadio | 89.5 Music FM
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/3637.png",HURadio | 89.5 Music FM
 http://79.172.241.238:8000/musicfm.mp3
-#EXTINF:-1,HURadio | Sláger FM
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/1804-150x150.png",HURadio | Sláger FM
 http://92.61.114.159:7812/slagerfm256.mp3
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/Karc-FM-logo-300x150.jpg",HURadio | Karc FM
 http://92.61.114.195:13100/stream
