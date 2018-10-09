@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,HU: M1
+https://c201-node62-cdn.connectmedia.hu/6090/00df374420db210a961907e9481d90a9/5bbbb3d7/index_hu.m3u8
+#EXTINF:-1,HU | M2
+https://player.mediaklikk.hu/playernew/player.php?video=mtv2live&flashmajor=29&flashminor=0&osfamily=Windows&osversion=10&browsername=Firefox&browserversion=59.0&title=M2&contentid=mtv2live&embedded=0
+#EXTINF:-1,HU | M4
+https://player.mediaklikk.hu/playernew/player.php?video=mtv4live&flashmajor=29&flashminor=0&osfamily=Windows&osversion=10&browsername=Firefox&browserversion=59.0&title=M4&contentid=mtv4live&embedded=0
