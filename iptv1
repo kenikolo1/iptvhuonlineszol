@@ -123,8 +123,6 @@ rtmp://stream.battanet.hu:1935/halom/tv
 rtmp://stream.r6.hu:1935/livepkgr/ltv
 #EXTINF:-1,HU | Hegyvidék TV
 http://tv.hegyvidek.hu:80/stream_mpeg.flv
-#EXTINF:-1,HU | Keszthely TV
-http://stream.tvkeszthely.hu:48082/tvkeszthely.flv
 #EXTINF:-1,HU | Tisza TV
 http://www.tiszatv.hu:443/tiszatv.f4v
 #EXTINF:-1,HURadio | MR1 Kossuth Rádió
