@@ -141,9 +141,9 @@ http://213.181.210.106:80/mid.mp3
 http://79.172.241.238:8000/musicfm.mp3
 #EXTINF:-1,HURadio | Sláger FM
 http://92.61.114.159:7812/slagerfm256.mp3
-#EXTINF:-1,HURadio | Karc FM
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/Karc-FM-logo-300x150.jpg",HURadio | Karc FM
 http://92.61.114.195:13100/stream
-#EXTINF:-1,HURadio | Kék Duna Rádió
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/1120-150x150.png",HURadio | Kék Duna Rádió
 http://stream1.kekduna.hu:7006/1-hot.mp3
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/09/szunetlogopng-e1536087742585-292x300.png",HURadio | Szünet Rádió 
 http://92.61.114.191:1101/stream
