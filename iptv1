@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1,HU: M1
+#EXTINF:-1,HU | M1
 https://c201-node62-cdn.connectmedia.hu/6090/00df374420db210a961907e9481d90a9/5bbbb3d7/index_hu.m3u8
 #EXTINF:-1,HU | M2
 https://c402-node61-cdn.connectmedia.hu/6180/f075e5a95bd18580d53c09e312f89d8f/5bbbb3eb/index_hu.m3u8
 #EXTINF:-1,HU | M5
 https://c202-node61-cdn.connectmedia.hu/2005/11ada38fe5adc2066284233322c61e4c/5bbbb3fd/index.m3u8
+#EXTINF:-1,HU | Duna
+https://c402-node61-cdn.connectmedia.hu/6175/188ea5eb0b46ba5fb79a95ca11928d54/5bbbb415/index_hu.m3u8
+#EXTINF:-1,HU | Duna World
+https://c401-node61-cdn.connectmedia.hu/6176/5ddb9a103641983037b590c7ab048c10/5bbbb428/index_hu.m3u8
+#EXTINF:-1,HU | Viasat 3
+https://c401-node62-cdn.connectmedia.hu/6676/a31a677881fe4f5da1f26898d846658b/5bbbb256/index.m3u8
+#EXTINF:-1,HU | Film4
+https://c202-node62-cdn.connectmedia.hu/13390/4bb60d7703868bf52f8db9c32dd142e6/5bbbb218/index.m3u8
+#EXTINF:-1,HU | Story4
+https://c202-node62-cdn.connectmedia.hu/13391/c7728101bde969753876b4da36104776/5bbbb243/index.m3u8
+#EXTINF:-1,HU | ATV (1 órás késleltetés!)
+http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1,HU | FIX TV
+rtmp://video.fixhd.tv:1935/fix/sd.stream
+#EXTINF:-1,HU | FIX TV (HD)
+rtmp://video.fixhd.tv:1935/fix/hd.stream
+#EXTINF:-1,HU | Zenebutik
+https://c401-node62-cdn.connectmedia.hu/4001/23ada8b4a49a93d030e229770e12b9bc/5bbbb268/index.m3u8
