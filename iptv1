@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1
 https://c201-node62-cdn.connectmedia.hu/6090/00df374420db210a961907e9481d90a9/5bbbb3d7/index_hu.m3u8
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1 (HD)
+http://134.255.56.54:9090/stream/channelid/1633134421
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
 https://c402-node61-cdn.connectmedia.hu/6180/f075e5a95bd18580d53c09e312f89d8f/5bbbb3eb/index_hu.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport
+http://81.182.152.0:9004/play/a00x
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
 https://c202-node61-cdn.connectmedia.hu/2005/11ada38fe5adc2066284233322c61e4c/5bbbb3fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna
@@ -17,6 +21,8 @@ http://81.182.152.0:9002/play/rtlklubsat2
 http://81.182.152.0:9002/play/tv2sat2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
 http://81.182.152.0:9002/play/hbocz
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo3_wide.png?itok=E3qsLB3t",HU | HBO 3
+http://81.182.152.0:9004/play/a00w
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Minimax_%282013%29.png/revision/latest?cb=20180114221815",HU | Minimax
 http://81.182.152.0:9002/play/minimac-c8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_plus_wide.png?itok=ZzMy9vxz",HU | FilmBox Plus
@@ -35,6 +41,27 @@ http://81.182.152.0:9002/play/sport2sat2
 http://81.182.152.0:9002/play/echotv
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
 http://81.182.152.0:9003/play/slagertv
+#EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
+http://81.182.152.0:9003/play/megamax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
+http://81.182.152.0:9003/play/travel
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History
+http://81.182.152.0:9003/play/viasath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery
+http://81.182.152.0:9003/play/investdisc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png",HU | AMC
+http://81.182.152.0:9003/play/amc
+#EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
+http://81.182.152.0:9001/play/tvpaprika
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
+http://81.182.152.0:9001/play/spektrum
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/CHELLO_FILMMANNIA_Logo.jpg",HU | FilmMánia
+http://81.182.152.0:9005/play/filmmania
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HU | History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HU | History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HU | History
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HU | History
 http://81.182.152.0:9003/play/history
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6254.png",HU | Film4
