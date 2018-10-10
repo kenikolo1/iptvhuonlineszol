@@ -23,6 +23,8 @@ http://81.182.152.0:9002/play/tv2sat2
 http://81.182.152.0:9002/play/hbocz
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo3_wide.png?itok=E3qsLB3t",HU | HBO 3
 http://81.182.152.0:9004/play/a00w
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo3_wide.png?itok=E3qsLB3t",HU | HBO 3 (HD)
+http://84.0.1.7:9004/play/a00w
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Minimax_%282013%29.png/revision/latest?cb=20180114221815",HU | Minimax
 http://81.182.152.0:9002/play/minimac-c8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_plus_wide.png?itok=ZzMy9vxz",HU | FilmBox Plus
@@ -39,6 +41,20 @@ http://81.182.152.0:9001/play/sport1
 http://81.182.152.0:9002/play/sport2sat2
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/echo_tv_wide.png?itok=8WYZj9Rn",HU | Echo TV
 http://81.182.152.0:9002/play/echotv
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | EuroSport
+http://84.0.1.7:9006/play/eurosport
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
+http://84.0.1.7:9006/play/prime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
+http://84.0.1.7:9006/play/supertv2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/FEM3_New_Logo.svg/2000px-FEM3_New_Logo.svg.png",HU | FEM3
+http://84.0.1.7:9006/play/fem3
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0024/2599/brand.gif?itok=E55DxUv0",HU | Diccovery Channel
+http://84.0.1.7:9006/play/discovery
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
+http://84.0.1.7:9006/play/tlc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
+http://84.0.1.7:9003/play/cartoon
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
 http://81.182.152.0:9003/play/slagertv
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
@@ -47,6 +63,8 @@ http://81.182.152.0:9003/play/megamax
 http://81.182.152.0:9003/play/travel
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History
 http://81.182.152.0:9003/play/viasath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_Explore_Logo.jpg",HU | Viasat Explore
+http://84.0.1.7:9006/play/viasatexplore
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery
 http://81.182.152.0:9003/play/investdisc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png",HU | AMC
