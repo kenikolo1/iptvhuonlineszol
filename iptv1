@@ -11,6 +11,32 @@ https://c402-node61-cdn.connectmedia.hu/6175/188ea5eb0b46ba5fb79a95ca11928d54/5b
 https://c401-node61-cdn.connectmedia.hu/6176/5ddb9a103641983037b590c7ab048c10/5bbbb428/index_hu.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
 https://c401-node62-cdn.connectmedia.hu/6676/a31a677881fe4f5da1f26898d846658b/5bbbb256/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
+http://81.182.152.0:9002/play/rtlklubsat2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
+http://81.182.152.0:9002/play/tv2sat2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
+http://81.182.152.0:9002/play/hbocz
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Minimax_%282013%29.png/revision/latest?cb=20180114221815",HU | Minimax
+http://81.182.152.0:9002/play/minimac-c8
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_plus_wide.png?itok=ZzMy9vxz",HU | FilmBox Plus
+http://81.182.152.0:9002/play/filmboxplus
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmbox-famly-logo.png",HU | FilmBox Family
+http://81.182.152.0:9002/play/filmboxfamily
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
+http://81.182.152.0:9002/play/filmplusz
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
+http://81.182.152.0:9002/play/spilertvsat
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/072015/sport1.png?itok=gbVSH7HE",HU | Sport 1
+http://81.182.152.0:9001/play/sport1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/Sport2.jpg/revision/latest?cb=20121006164602",HU | Sport 2
+http://81.182.152.0:9002/play/sport2sat2
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/echo_tv_wide.png?itok=8WYZj9Rn",HU | Echo TV
+http://81.182.152.0:9002/play/echotv
+#EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
+http://81.182.152.0:9003/play/slagertv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",HU | History
+http://81.182.152.0:9003/play/history
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6254.png",HU | Film4
 https://c202-node62-cdn.connectmedia.hu/13390/4bb60d7703868bf52f8db9c32dd142e6/5bbbb218/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6185.png",HU | Story4
