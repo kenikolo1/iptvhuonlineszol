@@ -17,9 +17,9 @@ https://c202-node62-cdn.connectmedia.hu/13390/4bb60d7703868bf52f8db9c32dd142e6/5
 https://c202-node62-cdn.connectmedia.hu/13391/c7728101bde969753876b4da36104776/5bbbb243/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV (1 órás késleltetés!)
 http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_1_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://onlineszol.tk/fixhd",HU | FIX TV
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV
 rtmp://video.fixhd.tv:1935/fix/sd.stream
-#EXTINF:-1 tvg-logo="http://onlineszol.tk/fixhd",HU | FIX TV (HD)
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU | Fishing & Hunting
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
@@ -43,6 +43,8 @@ https://cloudfront44.lexanetwork.com:1440/hlsrelay020/hls/livestream.sdp.m3u8
 http://stream.iptvservice.eu:80/hls/balatontv.m3u8
 #EXTINF:-1,HU | Fit HD
 https://c201-node62-cdn.connectmedia.hu/6272/a69d0696db4a3d219235d239ce82ece6/5bbbb397/index.m3u8
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/let%C3%B6lt%C3%A9s.jpg",HU | Sopron TV
+https://c401-node61-cdn.connectmedia.hu/3011/641e516243824067c3dbf1de293cd6c8/5bbe093c/index.m3u8
 #EXTINF:-1,HU | TV Eger
 http://87.229.94.12:8080/hls/tvegerlive.m3u8
 #EXTINF:-1,HU | Heti TV
