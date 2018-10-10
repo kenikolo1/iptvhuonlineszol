@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1
 https://c201-node62-cdn.connectmedia.hu/6090/00df374420db210a961907e9481d90a9/5bbbb3d7/index_hu.m3u8
-#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1 (HD)
-http://134.255.56.54:9090/stream/channelid/1633134421
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
 https://c402-node61-cdn.connectmedia.hu/6180/f075e5a95bd18580d53c09e312f89d8f/5bbbb3eb/index_hu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport
