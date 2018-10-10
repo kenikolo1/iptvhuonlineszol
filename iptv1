@@ -21,13 +21,13 @@ http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_1_aac/playlist.m3u8
 rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
-#EXTINF:-1,HU | Fishing & Hunting
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
-#EXTINF:-1,HU | National Geographic
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
-#EXTINF:-1,HU | National Geographic Wild
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeowild
-#EXTINF:-1,HU | DOQ
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6008.png",HU | DOQ
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=doqtv
 #EXTINF:-1,HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
