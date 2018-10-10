@@ -29,19 +29,17 @@ http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeowild
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6008.png",HU | DOQ
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=doqtv
-#EXTINF:-1,HU | StreamART
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
-#EXTINF:-1,HU | Zenebutik
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
 https://c401-node62-cdn.connectmedia.hu/4001/23ada8b4a49a93d030e229770e12b9bc/5bbbb268/index.m3u8
-#EXTINF:-1,HU | Izaura TV
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6163.png",HU | Izaura TV
 https://cdn.connectmedia.hu/4002/9e18c30edf1b91221f34eac031f1b957/5bbbb280/index.m3u8
-#EXTINF:-1,HU | Bonum TV
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/4798.png",HU | Bonum TV
 https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
-#EXTINF:-1,HU | Konyha TV
-https://cloudfront44.lexanetwork.com:1440/hlsrelay020/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Balaton TV
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",HU | Balaton TV
 http://stream.iptvservice.eu:80/hls/balatontv.m3u8
-#EXTINF:-1,HU | Fit HD
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5921.png",HU | Fit HD
 https://c201-node62-cdn.connectmedia.hu/6272/a69d0696db4a3d219235d239ce82ece6/5bbbb397/index.m3u8
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/let%C3%B6lt%C3%A9s.jpg",HU | Sopron TV
 https://c401-node61-cdn.connectmedia.hu/3011/641e516243824067c3dbf1de293cd6c8/5bbe093c/index.m3u8
@@ -53,8 +51,6 @@ http://onlinestream.hu/redirect/hbbtv-as.cgi?id=hetitv
 https://citytv.hu:443/media/live/stream.m3u8
 #EXTINF:-1,HU | Főnix TV
 https://eco001.streaming4u.hu:443/FonixTV/index.m3u8
-#EXTINF:-1,HU | StreamSport
-https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
 #EXTINF:-1,HU | Gyöngyösi TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
 #EXTINF:-1,HU | Kapos TV
