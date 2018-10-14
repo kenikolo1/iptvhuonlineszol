@@ -12,7 +12,9 @@ http://152.66.115.226:33391/bysid/121
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
 http://152.66.115.226:33391/bysid/120
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
-https://c401-node62-cdn.connectmedia.hu/6676/a31a677881fe4f5da1f26898d846658b/5bbbb256/index.m3u8
+https://c202-node62-cdn.connectmedia.hu/6676/2df186aa196714ad882f422f98509a51/5bc2552b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV6_Viasat.svg/1024px-TV6_Viasat.svg.png",HU | Viasat 6
+https://c202-node61-cdn.connectmedia.hu/13391/dea717f909028eefd2e58aba301d0564/5bc3693a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
@@ -46,7 +48,7 @@ http://37.220.128.130:9016
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
 http://37.220.128.130:9032
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
-http://81.182.152.0:9003/play/slagertv
+https://c201-node62-cdn.connectmedia.hu/13390/4d7aca3033253512dc1805bc486e1bee/5bc369c2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
 http://81.182.152.0:9003/play/megamax
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
@@ -94,9 +96,9 @@ http://onlinestream.hu/redirect/hbbtv-as.cgi?id=doqtv
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
-https://c401-node62-cdn.connectmedia.hu/4001/23ada8b4a49a93d030e229770e12b9bc/5bbbb268/index.m3u8
+https://c402-node62-cdn.connectmedia.hu/4001/14f800a276ca390a02267c26b9d0b8b8/5bc36a13/index.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6163.png",HU | Izaura TV
-https://cdn.connectmedia.hu/4002/9e18c30edf1b91221f34eac031f1b957/5bbbb280/index.m3u8
+https://cdn.connectmedia.hu/4002/c7c657646673563b37db8647f339f5cb/5bc36a8c/index.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/4798.png",HU | Bonum TV
 https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",HU | Balaton TV
