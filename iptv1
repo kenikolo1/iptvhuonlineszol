@@ -28,7 +28,7 @@ http://81.182.152.0:9002/play/filmboxplus
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmbox-famly-logo.png",HU | FilmBox Family
 http://81.182.152.0:9002/play/filmboxfamily
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
-http://81.182.152.0:9002/play/filmplusz
+http://37.220.128.130:9001
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
 http://81.182.152.0:9002/play/spilertvsat
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/072015/sport1.png?itok=gbVSH7HE",HU | Sport 1
