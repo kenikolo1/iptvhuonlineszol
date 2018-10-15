@@ -30,11 +30,13 @@ http://146.120.225.137:8109/30504
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
-http://37.220.128.130:9001
+http://37.220.128.130:9001http://146.120.225.137:8102/30203
 #EXTINF:-1 tvg-logo="http://static.est.hu/kepek/292/640/292967_640_filmbox_extrahd.jpg",HU | FilmBox Extra HD
 http://146.120.225.137:8109/30523
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
 http://146.120.225.137:8109/30507
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/FilmBox_Family_%282013%29.svg/revision/latest?cb=20171210175502",HU | FilmBox Family
+http://146.120.225.137:8102/30201
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
 http://146.120.225.137:8103/30303
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
@@ -75,16 +77,24 @@ http://146.120.225.137:8115/30904
 http://176.119.66.242:5555/udp/239.2.24.137:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://146.120.225.137:8115/30907
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
+http://146.120.225.137:8100/30111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
+http://146.120.225.137:8100/30101
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
 http://146.120.225.137:8115/30912
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
 http://146.120.225.137:8110/30635
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
+http://146.120.225.137:8102/30224
 #EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
 http://146.120.225.137:18000
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781906_logo_cbs_reality.png",HU | CBS Reality
 http://146.120.225.137:8115/30905
-#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV (1 órás késleltetés!)
-http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV
+http://146.120.225.137:8102/30211
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/echo_tv_wide.png?itok=8WYZj9Rn",HU | ECHO
+http://146.120.225.137:8102/30212
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV
 rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
