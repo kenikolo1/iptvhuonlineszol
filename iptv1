@@ -1,12 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1
+http://146.120.225.137:8110/30605
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1 (HD)
 http://152.66.115.226:33391/bysid/100
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
+http://146.120.225.137:8110/30607
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2 (HD)
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5 (HD)
 http://152.66.115.226:33390/bysid/202
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna
+http://146.120.225.137:8115/30916
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna (HD)
 http://152.66.115.226:33391/bysid/121
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
@@ -17,28 +23,58 @@ https://c202-node62-cdn.connectmedia.hu/6676/2df186aa196714ad882f422f98509a51/5b
 https://c202-node61-cdn.connectmedia.hu/13391/dea717f909028eefd2e58aba301d0564/5bc3693a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
 http://152.66.115.226:33390/bysid/203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub (HD)
+http://146.120.225.137:8109/30504
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
 http://37.220.128.130:9001
+#EXTINF:-1 tvg-logo="http://static.est.hu/kepek/292/640/292967_640_filmbox_extrahd.jpg",HU | FilmBox Extra HD
+http://146.120.225.137:8109/30523
+#EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
+http://146.120.225.137:8109/30507
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
+http://146.120.225.137:8103/30303
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
+http://146.120.225.137:8103/30307
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
+http://146.120.225.137:8103/30308
+#EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
+http://146.120.225.137:8103/30309
+#EXTINF:-1 tvg-logo="http://comment.blog.hu/media/image/2011marcius/SpektrumHome.jpg",HU | Spektrum Home
+http://146.120.225.137:8103/30310
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
+http://146.120.225.137:8103/30315
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
+http://146.120.225.137:8103/30319
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/fine_living_wide.png?itok=CxnY5sia",HU | Fine Living
+http://146.120.225.137:8108/30405
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/80e6afe391f489f3af8a6d02fe869b7a.png",HU | Film Mánia
+http://146.120.225.137:8108/30415
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",HU | Fashion TV
+http://146.120.225.137:8109/30510
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History (HD)
+http://146.120.225.137:8109/30524
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/FEM3_New_Logo.svg",HU | FEM3
+http://146.120.225.137:8115/30919
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport
-http://37.220.128.130:9031
+http://146.120.225.137:8115/30901
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
-http://37.220.128.130:9014
+http://146.120.225.137:8110/30608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png",HU | Auto Motor Sport
-http://37.220.128.130:9016
+http://146.120.225.137:8110/30606
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
-http://37.220.128.130:9032
+http://146.120.225.137:8115/30902
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
 https://c201-node62-cdn.connectmedia.hu/13390/4d7aca3033253512dc1805bc486e1bee/5bc369c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
-http://37.220.128.130:9033
+http://146.120.225.137:8115/30903
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History (Több nyelven)
 http://176.119.66.242:5555/udp/239.2.24.137:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
-http://37.220.128.130:9035
+http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
-http://37.220.128.130:9036
+http://146.120.225.137:8115/30912
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV (1 órás késleltetés!)
 http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_1_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV
