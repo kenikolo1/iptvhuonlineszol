@@ -41,8 +41,6 @@ http://146.120.225.137:8103/30307
 http://146.120.225.137:8103/30308
 #EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
 http://146.120.225.137:8103/30309
-#EXTINF:-1 tvg-logo="http://comment.blog.hu/media/image/2011marcius/SpektrumHome.jpg",HU | Spektrum Home
-http://146.120.225.137:8103/30310
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://146.120.225.137:8103/30315
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
