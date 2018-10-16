@@ -20,7 +20,7 @@ http://152.66.115.226:33391/bysid/121
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
 http://152.66.115.226:33391/bysid/120
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
-https://c202-node62-cdn.connectmedia.hu/6676/2df186aa196714ad882f422f98509a51/5bc2552b/index.m3u8
+https://c402-node62-cdn.connectmedia.hu/6676/09915736004027bba1c14ffbb4d457c4/5bc5d94b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV6_Viasat.svg/1024px-TV6_Viasat.svg.png",HU | Viasat 6
 https://c202-node61-cdn.connectmedia.hu/13391/dea717f909028eefd2e58aba301d0564/5bc3693a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
