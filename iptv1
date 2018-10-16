@@ -30,7 +30,9 @@ http://146.120.225.137:8109/30504
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
-http://37.220.128.130:9001http://146.120.225.137:8102/30203
+http://146.120.225.137:8102/30203
+#EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2
+http://146.120.225.137:8115/30914
 #EXTINF:-1 tvg-logo="http://static.est.hu/kepek/292/640/292967_640_filmbox_extrahd.jpg",HU | FilmBox Extra HD
 http://146.120.225.137:8109/30523
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
@@ -74,7 +76,7 @@ http://146.120.225.137:8115/30903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
 http://146.120.225.137:8115/30904
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History (Több nyelven)
-http://176.119.66.242:5555/udp/239.2.24.137:1234
+http://62.16.19.210:81/udp/239.2.24.137:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
