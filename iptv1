@@ -120,7 +120,7 @@ https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",HU | Balaton TV
 http://stream.iptvservice.eu:80/hls/balatontv.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5921.png",HU | Fit HD
-https://c402-node62-cdn.connectmedia.hu/6272/03740cef72d75201706b1ea6df96cffa/5bc25595/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/6272/e84fb04130e93d0a0438e8067bf97512/5bc5dfe2/index.m3u8
 #EXTINF:-1,HU | Heti TV
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=hetitv
 #EXTINF:-1,HU | City TV
