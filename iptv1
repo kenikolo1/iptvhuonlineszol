@@ -71,6 +71,8 @@ http://146.120.225.137:8115/30919
 http://146.120.225.137:8115/30901
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
 http://146.120.225.137:8110/30608
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery (Több nyelven)
+http://176.119.66.242:5555/udp/239.2.65.127:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png",HU | Auto Motor Sport
 http://146.120.225.137:8110/30606
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
@@ -79,6 +81,12 @@ http://146.120.225.137:8115/30902
 https://c201-node62-cdn.connectmedia.hu/13390/4d7aca3033253512dc1805bc486e1bee/5bc369c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",EN | MTV Hits
 http://31.31.127.73:81/udp/239.2.153.102:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MTV_Dance_2017_logo.png/250px-MTV_Dance_2017_logo.png",EN | MTV Dance
+http://176.119.66.242:5555/udp/239.2.153.103:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/250px-MTV_Rocks_2017_logo.svg.png",EN | MTV Rock
+http://176.119.66.242:5555/udp/239.2.153.104:1234
+#EXTINF:-1 tvg-logo="https://tsdrsec.uspto.gov/ts/cd/standardimages/85749032/webcontent",EN | VH1
+http://176.119.66.242:5555/udp/239.2.153.100:1234
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
 http://146.120.225.137:8115/30903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
@@ -87,6 +95,8 @@ http://146.120.225.137:8115/30904
 http://62.16.15.141:88/udp/239.2.24.137:1234
 #EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/5b4f2762_med.png",HU | Viasat Nature (Több nyelven)
 http://31.31.127.73:81/udp/239.2.170.136:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon (Több nyelven)
+http://176.119.66.242:5555/udp/239.2.46.80:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
