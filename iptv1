@@ -39,6 +39,8 @@ http://146.120.225.137:8109/30523
 http://146.120.225.137:8109/30507
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/FilmBox_Family_%282013%29.svg/revision/latest?cb=20171210175502",HU | FilmBox Family
 http://146.120.225.137:8102/30201
+#EXTINF:-1 tvg-logo="http://hu.upcdirect.com/userfiles/channels/logos/FILMBOX_PLUS.png",HU | FilmBox Plus
+http://146.120.225.137:8102/30217
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
 http://146.120.225.137:8103/30303
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
