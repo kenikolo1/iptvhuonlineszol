@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1
 http://146.120.225.137:8110/30605
-#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png" group-title="Magyar",HU | M1 (TESZT)
-http://146.120.225.137:8110/30605
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1 (HD)
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
