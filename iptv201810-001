@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1
+http://146.120.225.137:8110/30605
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/Az_M1_log%C3%B3ja-300x257.png",HU | M1 (HD)
+http://152.66.115.226:33391/bysid/100
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2
+http://146.120.225.137:8110/30607
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2 (HD)
+http://152.66.115.226:33390/bysid/200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
+http://152.66.115.226:33391/bysid/101
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
+http://146.120.225.137:8103/30325
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5 (HD)
+http://152.66.115.226:33390/bysid/202
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna
+http://146.120.225.137:8115/30916
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna (HD)
+http://152.66.115.226:33391/bysid/121
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
+http://152.66.115.226:33391/bysid/120
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
+https://c402-node62-cdn.connectmedia.hu/6676/09915736004027bba1c14ffbb4d457c4/5bc5d94b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV6_Viasat.svg/1024px-TV6_Viasat.svg.png",HU | Viasat 6
+https://c202-node61-cdn.connectmedia.hu/13391/dea717f909028eefd2e58aba301d0564/5bc3693a/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
+http://152.66.115.226:33390/bysid/203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub (HD)
+http://146.120.225.137:8109/30504
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
+http://152.66.115.226:33390/bysid/204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
+http://146.120.225.137:8102/30203
+#EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2
+http://146.120.225.137:8115/30914
+#EXTINF:-1 tvg-logo="http://static.est.hu/kepek/292/640/292967_640_filmbox_extrahd.jpg",HU | FilmBox Extra HD
+http://146.120.225.137:8109/30523
+#EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
+http://146.120.225.137:8109/30507
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/FilmBox_Family_%282013%29.svg/revision/latest?cb=20171210175502",HU | FilmBox Family
+http://146.120.225.137:8102/30201
+#EXTINF:-1 tvg-logo="http://hu.upcdirect.com/userfiles/channels/logos/FILMBOX_PLUS.png",HU | FilmBox Plus
+http://146.120.225.137:8102/30217
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
+http://146.120.225.137:8103/30303
+#EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (Több nyelven)
+http://31.31.127.73:81/udp/239.2.20.125:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science (Több nyelven)
+http://31.31.127.73:81/udp/239.2.44.122:1234
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
+http://146.120.225.137:8103/30307
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
+http://146.120.225.137:8103/30308
+#EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
+http://146.120.225.137:8103/30309
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
+http://146.120.225.137:8103/30315
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
+http://146.120.225.137:8103/30319
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/fine_living_wide.png?itok=CxnY5sia",HU | Fine Living
+http://146.120.225.137:8108/30405
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/80e6afe391f489f3af8a6d02fe869b7a.png",HU | Film Mánia
+http://146.120.225.137:8108/30415
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",HU | Fashion TV
+http://146.120.225.137:8109/30510
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History (HD)
+http://146.120.225.137:8109/30524
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/FEM3_New_Logo.svg",HU | FEM3
+http://146.120.225.137:8115/30919
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport
+http://146.120.225.137:8115/30901
+#EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
+http://146.120.225.137:8110/30608
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery (Több nyelven)
+http://176.119.66.242:5555/udp/239.2.65.127:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png",HU | Auto Motor Sport
+http://146.120.225.137:8110/30606
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
+http://146.120.225.137:8115/30902
+#EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
+https://c201-node62-cdn.connectmedia.hu/13390/4d7aca3033253512dc1805bc486e1bee/5bc369c2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",EN | MTV Hits
+http://31.31.127.73:81/udp/239.2.153.102:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MTV_Dance_2017_logo.png/250px-MTV_Dance_2017_logo.png",EN | MTV Dance
+http://176.119.66.242:5555/udp/239.2.153.103:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/250px-MTV_Rocks_2017_logo.svg.png",EN | MTV Rock
+http://176.119.66.242:5555/udp/239.2.153.104:1234
+#EXTINF:-1 tvg-logo="https://tsdrsec.uspto.gov/ts/cd/standardimages/85749032/webcontent",EN | VH1
+http://176.119.66.242:5555/udp/239.2.153.100:1234
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
+http://146.120.225.137:8115/30903
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
+http://146.120.225.137:8115/30904
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History (Több nyelven)
+http://62.16.15.141:88/udp/239.2.24.137:1234
+#EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/5b4f2762_med.png",HU | Viasat Nature (Több nyelven)
+http://31.31.127.73:81/udp/239.2.170.136:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon (Több nyelven)
+http://176.119.66.242:5555/udp/239.2.46.80:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
+http://146.120.225.137:8115/30907
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
+http://146.120.225.137:8100/30111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
+http://146.120.225.137:8100/30101
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
+http://146.120.225.137:8115/30912
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
+http://146.120.225.137:8110/30635
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
+http://146.120.225.137:8102/30224
+#EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
+http://146.120.225.137:18000
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781906_logo_cbs_reality.png",HU | CBS Reality
+http://146.120.225.137:8115/30905
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV
+http://146.120.225.137:8102/30211
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/echo_tv_wide.png?itok=8WYZj9Rn",HU | ECHO
+http://146.120.225.137:8102/30212
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV
+rtmp://video.fixhd.tv:1935/fix/sd.stream
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
+rtmp://video.fixhd.tv:1935/fix/hd.stream
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
+http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
+http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
+http://146.120.225.137:8109/30501
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6008.png",HU | DOQ
+http://onlinestream.hu/redirect/hbbtv-as.cgi?id=doqtv
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
+http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
+https://c402-node62-cdn.connectmedia.hu/4001/14f800a276ca390a02267c26b9d0b8b8/5bc36a13/index.m3u8
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6163.png",HU | Izaura TV
+https://cdn.connectmedia.hu/4002/c7c657646673563b37db8647f339f5cb/5bc36a8c/index.m3u8
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/4798.png",HU | Bonum TV
+https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",Helyi | Balaton TV
+http://stream.iptvservice.eu:80/hls/balatontv.m3u8
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5921.png",HU | Fit HD
+https://c401-node62-cdn.connectmedia.hu/6272/e84fb04130e93d0a0438e8067bf97512/5bc5dfe2/index.m3u8
+#EXTINF:-1,HU | Heti TV
+http://onlinestream.hu/redirect/hbbtv-as.cgi?id=hetitv
+#EXTINF:-1,Helyi | City TV
+https://citytv.hu:443/media/live/stream.m3u8
+#EXTINF:-1,Helyi | Főnix TV
+https://eco001.streaming4u.hu:443/FonixTV/index.m3u8
+#EXTINF:-1,Helyi | Gyöngyösi TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Kapos TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Ózdi VTV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:-1,Helyi | Szolnok TV
+https://cloudfront20.lexanetwork.com:1440/hlsrelay002/hls/livestream.sdp/index.m3u8
+#EXTINF:-1,HU | Budapest Európa TV
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Győr + TV
+https://cloudfront41.lexanetwork.com:1440/hlsrelay013/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF:-1,Helyi | Fehérvár TV
+https://cloudfront44.lexanetwork.com:1440/HDE016/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Zalaegerszegi TV
+https://cloudfront44.lexanetwork.com:1440/hlsrelay017/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Szombathelyi TV
+https://cloudfront20.lexanetwork.com:1440/HDE018/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1,Helyi | Tatai TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Móri VTV
+https://cloudfront20.lexanetwork.com:1440/HDE027/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Karcag TV
+https://cloudfront41.lexanetwork.com:1440/hlsrelay005/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Oroszlány TV
+https://cloudfront20.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Jász Trió TV
+https://cloudfront75.lexanetwork.com:1440/hlsrelay013/hls/livestream.sdp.m3u8
+#EXTINF:-1,HU | Olaj TV
+https://www.youtube.com/watch?v=MftdzlRKH1U
+#EXTINF:-1,HU | TVD1
+http://stream02.tvd1.hu:8081/tvdp1_live/sd/playlist.m3u8
+#EXTINF:-1,HU | TVD1 (HD)
+http://37.221.210.29:8081/stream_1080.m3u/H1080/playlist.m3u8
+#EXTINF:-1,Helyi | Pilis TV
+http://flussonic.streaming4u.hu:80/PilisTV/index.m3u8
+#EXTINF:-1,Helyi | Csurgó TV
+http://79.120.178.90:1935/csurgotv/live/playlist.m3u8
+#EXTINF:-1,Helyi | Tatabányi TV
+https://cloudfront61.lexanetwork.com:1440/hlsrelay007/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Rábaközi TV
+http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
+#EXTINF:-1,HU | Light Channel
+http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
+#EXTINF:-1,Helyi | Globo TV
+http://stream.streaming4u.hu:80/GloboTV/index.m3u8
+#EXTINF:-1,HU | Apostol TV
+http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
+#EXTINF:-1,Helyi | Kölcsey TV
+rtmp://193.138.125.14:1935/live/kolcseytv.stream
+#EXTINF:-1,Helyi | Zugló TV
+http://cloudfront20.lexanetwork.com:1630/HDE022.webm
+#EXTINF:-1,Helyi | Hatoscsatorna
+http://87.229.77.131:8081/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1,Helyi | Halom TV
+rtmp://stream.battanet.hu:1935/halom/tv
+#EXTINF:-1,Helyi | Líceum TV
+rtmp://stream.r6.hu:1935/livepkgr/ltv
+#EXTINF:-1,Helyi | Hegyvidék TV
+http://tv.hegyvidek.hu:80/stream_mpeg.flv
+#EXTINF:-1,Helyi | Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR1-Kossuth-Radio-logo-300x300.png",HURadio | MR1 Kossuth Rádió
+http://mr-stream.mediaconnect.hu/4734/mr1.aac
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR2-Petofi-Radio-logo-300x300.png",HURadio | MR2 Petőfi Rádió
+http://mr-stream.mediaconnect.hu:80/4738/mr2.mp3
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR3-Bartok-Radio-logo-300x300.png",HURadio | MR3 Bartók Rádió
+http://mr-stream.mediaconnect.hu/4739/mr3.aac
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR6-Danko-Radio-logo-300x300.png",HURadio | MR7 Dankó Rádió
+http://mr-stream.mediaconnect.hu/4747/mr7.aac
+#EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/6204.png",HURadio | Retro Rádió
+http://stream.retroradio.hu/mid.mp3
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/radio1_slider_logo-150x150.jpg",HURadio | 96.4 Rádió 1 Budapest
+http://213.181.210.106:80/mid.mp3
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/3637.png",HURadio | 89.5 Music FM
+http://79.172.241.238:8000/musicfm.mp3
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/1804-150x150.png",HURadio | Sláger FM
+http://92.61.114.159:7812/slagerfm256.mp3
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/Karc-FM-logo-300x150.jpg",HURadio | Karc FM
+http://92.61.114.195:13100/stream
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/1120-150x150.png",HURadio | Kék Duna Rádió
+http://stream1.kekduna.hu:7006/1-hot.mp3
+#EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/09/szunetlogopng-e1536087742585-292x300.png",HURadio | Szünet Rádió 
+http://92.61.114.191:1101/stream
