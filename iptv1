@@ -119,47 +119,47 @@ https://c402-node62-cdn.connectmedia.hu/4001/14f800a276ca390a02267c26b9d0b8b8/5b
 https://cdn.connectmedia.hu/4002/c7c657646673563b37db8647f339f5cb/5bc36a8c/index.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/4798.png",HU | Bonum TV
 https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
-#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",HU | Balaton TV
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",Helyi | Balaton TV
 http://stream.iptvservice.eu:80/hls/balatontv.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5921.png",HU | Fit HD
 https://c401-node62-cdn.connectmedia.hu/6272/e84fb04130e93d0a0438e8067bf97512/5bc5dfe2/index.m3u8
 #EXTINF:-1,HU | Heti TV
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=hetitv
-#EXTINF:-1,HU | City TV
+#EXTINF:-1,Helyi | City TV
 https://citytv.hu:443/media/live/stream.m3u8
-#EXTINF:-1,HU | Főnix TV
+#EXTINF:-1,Helyi | Főnix TV
 https://eco001.streaming4u.hu:443/FonixTV/index.m3u8
-#EXTINF:-1,HU | Gyöngyösi TV
+#EXTINF:-1,Helyi | Gyöngyösi TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Kapos TV
+#EXTINF:-1,Helyi | Kapos TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Ózdi VTV
+#EXTINF:-1,Helyi | Ózdi VTV
 https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
-#EXTINF:-1,HU | Szolnok TV
+#EXTINF:-1,Helyi | Szolnok TV
 https://cloudfront20.lexanetwork.com:1440/hlsrelay002/hls/livestream.sdp/index.m3u8
 #EXTINF:-1,HU | Budapest Európa TV
 http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Győr + TV
+#EXTINF:-1,Helyi | Győr + TV
 https://cloudfront41.lexanetwork.com:1440/hlsrelay013/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | VTV Füzesabony
+#EXTINF:-1,Helyi | VTV Füzesabony
 https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
-#EXTINF:-1,HU | Fehérvár TV
+#EXTINF:-1,Helyi | Fehérvár TV
 https://cloudfront44.lexanetwork.com:1440/HDE016/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Zalaegerszegi TV
+#EXTINF:-1,Helyi | Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1440/hlsrelay017/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Szombathelyi TV
+#EXTINF:-1,Helyi | Szombathelyi TV
 https://cloudfront20.lexanetwork.com:1440/HDE018/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Pannon RTV
+#EXTINF:-1,Helyi | Pannon RTV
 https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
-#EXTINF:-1,HU | Tatai TV
+#EXTINF:-1,Helyi | Tatai TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Móri VTV
+#EXTINF:-1,Helyi | Móri VTV
 https://cloudfront20.lexanetwork.com:1440/HDE027/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Karcag TV
+#EXTINF:-1,Helyi | Karcag TV
 https://cloudfront41.lexanetwork.com:1440/hlsrelay005/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Oroszlány TV
+#EXTINF:-1,Helyi | Oroszlány TV
 https://cloudfront20.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Jász Trió TV
+#EXTINF:-1,Helyi | Jász Trió TV
 https://cloudfront75.lexanetwork.com:1440/hlsrelay013/hls/livestream.sdp.m3u8
 #EXTINF:-1,HU | Olaj TV
 https://www.youtube.com/watch?v=MftdzlRKH1U
@@ -167,33 +167,33 @@ https://www.youtube.com/watch?v=MftdzlRKH1U
 http://stream02.tvd1.hu:8081/tvdp1_live/sd/playlist.m3u8
 #EXTINF:-1,HU | TVD1 (HD)
 http://37.221.210.29:8081/stream_1080.m3u/H1080/playlist.m3u8
-#EXTINF:-1,HU | Pilis TV
+#EXTINF:-1,Helyi | Pilis TV
 http://flussonic.streaming4u.hu:80/PilisTV/index.m3u8
-#EXTINF:-1,HU | Csurgó TV
+#EXTINF:-1,Helyi | Csurgó TV
 http://79.120.178.90:1935/csurgotv/live/playlist.m3u8
-#EXTINF:-1,HU | Tatabányi TV
+#EXTINF:-1,Helyi | Tatabányi TV
 https://cloudfront61.lexanetwork.com:1440/hlsrelay007/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | Rábaközi TV
+#EXTINF:-1,Helyi | Rábaközi TV
 http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
 #EXTINF:-1,HU | Light Channel
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
-#EXTINF:-1,HU | Globo TV
+#EXTINF:-1,Helyi | Globo TV
 http://stream.streaming4u.hu:80/GloboTV/index.m3u8
 #EXTINF:-1,HU | Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
-#EXTINF:-1,HU | Kölcsey TV
+#EXTINF:-1,Helyi | Kölcsey TV
 rtmp://193.138.125.14:1935/live/kolcseytv.stream
-#EXTINF:-1,HU | Zugló TV
+#EXTINF:-1,Helyi | Zugló TV
 http://cloudfront20.lexanetwork.com:1630/HDE022.webm
-#EXTINF:-1,HU | Hatoscsatorna
+#EXTINF:-1,Helyi | Hatoscsatorna
 http://87.229.77.131:8081/Hatoscsatorna/livestream/playlist.m3u8
-#EXTINF:-1,HU | Halom TV
+#EXTINF:-1,Helyi | Halom TV
 rtmp://stream.battanet.hu:1935/halom/tv
-#EXTINF:-1,HU | Líceum TV
+#EXTINF:-1,Helyi | Líceum TV
 rtmp://stream.r6.hu:1935/livepkgr/ltv
-#EXTINF:-1,HU | Hegyvidék TV
+#EXTINF:-1,Helyi | Hegyvidék TV
 http://tv.hegyvidek.hu:80/stream_mpeg.flv
-#EXTINF:-1,HU | Tisza TV
+#EXTINF:-1,Helyi | Tisza TV
 http://www.tiszatv.hu:443/tiszatv.f4v
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/03/MR1-Kossuth-Radio-logo-300x300.png",HURadio | MR1 Kossuth Rádió
 http://mr-stream.mediaconnect.hu/4734/mr1.aac
