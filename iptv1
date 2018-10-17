@@ -73,6 +73,8 @@ http://146.120.225.137:8110/30606
 http://146.120.225.137:8115/30902
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
 https://c201-node62-cdn.connectmedia.hu/13390/4d7aca3033253512dc1805bc486e1bee/5bc369c2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",EN | MTV Hits
+http://31.31.127.73:81/udp/239.2.153.102:1234
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
 http://146.120.225.137:8115/30903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
