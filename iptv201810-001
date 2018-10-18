@@ -7,8 +7,10 @@ http://152.66.115.226:33391/bysid/100
 http://146.120.225.137:8110/30607
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2 (HD)
 http://152.66.115.226:33390/bysid/200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/b/b6/M3_logo.png",HU | M3
+http://146.120.225.137:8112/31202
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
-http://152.66.115.226:33391/bysid/101
+http://146.120.225.137:8105/31006
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
 http://146.120.225.137:8103/30325
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5 (HD)
@@ -43,16 +45,24 @@ http://146.120.225.137:8109/30507
 http://146.120.225.137:8102/30201
 #EXTINF:-1 tvg-logo="http://hu.upcdirect.com/userfiles/channels/logos/FILMBOX_PLUS.png",HU | FilmBox Plus
 http://146.120.225.137:8102/30217
+#EXTINF:-1,HU | Paramount Channel
+http://146.120.225.137:8114/501
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
 http://146.120.225.137:8103/30303
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
 http://146.120.225.137:8107/30704
+#EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
+http://146.120.225.137:8105/31011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science
 http://146.120.225.137:8107/30706
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
 http://146.120.225.137:8103/30307
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
 http://146.120.225.137:8103/30308
+#EXTINF:-1,HU | RTL Gold
+http://146.120.225.137:8112/31219
+#EXTINF:-1,HU | RTL 2
+http://146.120.225.137:8112/31212
 #EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
 http://146.120.225.137:8103/30309
 #EXTINF:-1,HU | Boomerang
@@ -71,8 +81,14 @@ http://146.120.225.137:8103/30319
 http://146.120.225.137:8108/30405
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/80e6afe391f489f3af8a6d02fe869b7a.png",HU | Film Mánia
 http://146.120.225.137:8108/30415
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2000px-Amc_logo.svg.png",HU | AMC
-http://smtv.be/iptv/stream2.php?s=1caj1C68RVHAxIy
+#EXTINF:-1,HU | AXN
+http://146.120.225.137:8111/11004
+#EXTINF:-1,HU | AXN Black
+http://146.120.225.137:8111/11003
+#EXTINF:-1,HU | AXN White
+http://146.120.225.137:8111/11002
+#EXTINF:-1,HU | Comedy Central
+http://146.120.225.137:8114/503
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",HU | Fashion TV
 http://146.120.225.137:8109/30510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History (HD)
@@ -85,8 +101,20 @@ http://164.132.136.176:8888/0066
 http://146.120.225.137:8107/30708
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
 http://37.152.135.169:9002/play/a00i
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport
+#EXTINF:-1,HU | Sorozat+
+http://146.120.225.137:8112/31214
+#EXTINF:-1,HU | Digi Sport 1 (HD)
+http://146.120.225.137:8104/4020
+#EXTINF:-1,HU | Digi Sport 2 (HD)
+http://146.120.225.137:8104/4060
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1
 http://146.120.225.137:8115/30901
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1 (HD)
+http://146.120.225.137:8117/2015
+#EXTINF:-1,HU | Eurosport 2
+http://146.120.225.137:8107/30719
+#EXTINF:-1,HU | Eurosport 2 (HD)
+http://146.120.225.137:8117/2016
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
 http://146.120.225.137:8110/30608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery (Több nyelven)
@@ -96,15 +124,13 @@ http://146.120.225.137:8110/30606
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
 http://146.120.225.137:8115/30902
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
-https://c201-node62-cdn.connectmedia.hu/13390/4d7aca3033253512dc1805bc486e1bee/5bc369c2/index.m3u8
+http://146.120.225.137:8113/31109
+#EXTINF:-1,HU | Muzsika TV
+http://146.120.225.137:8112/31215
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",EN | MTV Hits
-http://31.31.127.73:81/udp/239.2.153.102:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MTV_Dance_2017_logo.png/250px-MTV_Dance_2017_logo.png",EN | MTV Dance
-http://176.119.66.242:5555/udp/239.2.153.103:1234
+http://146.120.225.137:8114/508
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/250px-MTV_Rocks_2017_logo.svg.png",EN | MTV Rock
-http://176.119.66.242:5555/udp/239.2.153.104:1234
-#EXTINF:-1 tvg-logo="https://tsdrsec.uspto.gov/ts/cd/standardimages/85749032/webcontent",EN | VH1
-http://176.119.66.242:5555/udp/239.2.153.100:1234
+http://146.120.225.137:8114/511
 #EXTINF:-1 tvg-logo="http://1music.hu/image/kocka.jpg",HU | 1Music Channel
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
@@ -123,6 +149,8 @@ http://146.120.225.137:8115/30907
 http://146.120.225.137:8107/30712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
 http://146.120.225.137:8102/30202
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO (HD)
+http://146.120.225.137:8105/31005
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO 2
 http://146.120.225.137:8107/30705
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502",HU | HBO 3
@@ -131,6 +159,8 @@ http://145.236.177.17:9005/play/hbo3
 http://146.120.225.137:8115/30912
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
 http://146.120.225.137:8110/30635
+#EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1
+http://146.120.225.137:8109/30503
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/SPORT2logo.png",HU | Sport 2
 http://146.120.225.137:8102/30205
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
