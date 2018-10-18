@@ -51,6 +51,8 @@ http://146.120.225.137:8102/30217
 http://146.120.225.137:8114/501
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
 http://146.120.225.137:8103/30303
+#EXTINF:-1,HU | BBC Earth (Több nyelven)
+http://streams.iptv.zone:80/p/448250/c/39/u/121343/0MqryTrXakC7LZ0WnHmuHk4CsHnEw4
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
 http://146.120.225.137:8107/30704
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
