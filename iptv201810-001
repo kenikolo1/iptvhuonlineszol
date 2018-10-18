@@ -22,15 +22,17 @@ http://152.66.115.226:33391/bysid/121
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
 http://152.66.115.226:33391/bysid/120
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5911.png",HU | Viasat 3
-https://c402-node62-cdn.connectmedia.hu/6676/09915736004027bba1c14ffbb4d457c4/5bc5d94b/index.m3u8
+http://146.120.225.137:8111/11017
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV6_Viasat.svg/1024px-TV6_Viasat.svg.png",HU | Viasat 6
-https://c202-node61-cdn.connectmedia.hu/13391/dea717f909028eefd2e58aba301d0564/5bc3693a/index.m3u8
+http://146.120.225.137:8111/11018
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub (HD)
 http://146.120.225.137:8109/30504
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
 http://152.66.115.226:33390/bysid/204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2 (HD)
+http://146.120.225.137:8104/4030
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
 http://146.120.225.137:8102/30203
 #EXTINF:-1,HU | Cinemax
@@ -53,6 +55,8 @@ http://146.120.225.137:8103/30303
 http://146.120.225.137:8107/30704
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
 http://146.120.225.137:8105/31011
+#EXTINF:-1,HU | Travel Channel
+http://146.120.225.137:8105/31003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science
 http://146.120.225.137:8107/30706
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
@@ -89,6 +93,8 @@ http://146.120.225.137:8111/11003
 http://146.120.225.137:8111/11002
 #EXTINF:-1,HU | Comedy Central
 http://146.120.225.137:8114/503
+#EXTINF:-1,HU | Comedy Central Family
+http://146.120.225.137:8114/502
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",HU | Fashion TV
 http://146.120.225.137:8109/30510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History (HD)
@@ -131,6 +137,8 @@ http://146.120.225.137:8112/31215
 http://146.120.225.137:8114/508
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/250px-MTV_Rocks_2017_logo.svg.png",EN | MTV Rock
 http://146.120.225.137:8114/511
+#EXTINF:-1,EN | VH1
+http://146.120.225.137:8114/507
 #EXTINF:-1 tvg-logo="http://1music.hu/image/kocka.jpg",HU | 1Music Channel
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
@@ -138,7 +146,7 @@ http://146.120.225.137:8115/30903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
 http://146.120.225.137:8115/30904
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History (Több nyelven)
-http://62.16.15.141:88/udp/239.2.24.137:1234
+http://146.120.225.137:8113/31106
 #EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/5b4f2762_med.png",HU | Viasat Nature (Több nyelven)
 http://31.31.127.73:81/udp/239.2.170.136:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon (Több nyelven)
