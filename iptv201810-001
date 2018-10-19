@@ -65,14 +65,11 @@ http://146.120.225.137:8105/31011
 http://31.208.124.150:8001/1:0:1:177A:7:1:E082E56:0:0:0:
 #EXTINF:-1,HU | FilmNow
 http://31.208.124.150:8001/1:0:1:41A:3:1:E082F62:0:0:0:
-#EXTINF:-1,HU | Travel Channel
-
-#EXTINF:-1,HU | Travel Channel
-
-#EXTINF:-1,HU | Travel Channel
 http://146.120.225.137:8105/31003
 #EXTINF:-1,HU | Travel Channel (HD)
 http://31.208.124.150:8001/1:0:19:791B:2C6:600:E080000:0:0:0:
+#EXTINF:-1,HU | Ozone TV
+http://31.208.124.150:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science
 http://146.120.225.137:8107/30706
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
@@ -107,6 +104,10 @@ http://146.120.225.137:8111/11004
 http://146.120.225.137:8111/11003
 #EXTINF:-1,HU | AXN White
 http://146.120.225.137:8111/11002
+#EXTINF:-1,HU | Sony Max
+http://31.208.124.150:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
+#EXTINF:-1,HU | Sony Movie Channel
+http://31.208.124.150:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
 #EXTINF:-1,HU | Comedy Central
 http://146.120.225.137:8114/503
 #EXTINF:-1,HU | Comedy Central Family
