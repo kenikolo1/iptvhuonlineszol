@@ -208,7 +208,7 @@ http://31.208.124.150:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781906_logo_cbs_reality.png",HU | CBS Reality
 http://146.120.225.137:8115/30905
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV
-http://146.120.225.137:8102/30211
+http://92.249.143.12:10000/play/a01a
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/echo_tv_wide.png?itok=8WYZj9Rn",HU | ECHO
 http://146.120.225.137:8102/30212
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV
