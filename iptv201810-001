@@ -97,6 +97,8 @@ http://146.120.225.137:8111/11002
 http://146.120.225.137:8114/503
 #EXTINF:-1,HU | Comedy Central Family
 http://146.120.225.137:8114/502
+#EXTINF:-1,HU | Humor+
+http://86.59.186.67:8001/1:0:1:798D:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",HU | Fashion TV
 http://146.120.225.137:8109/30510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History (HD)
