@@ -216,10 +216,12 @@ rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
-http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
+http://92.249.143.12:10000/play/a005
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
-http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
+http://145.236.177.17:9003/play/natgeo
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
+http://92.249.143.12:10000/play/a009
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
 http://146.120.225.137:8109/30501
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6008.png",HU | DOQ
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=doqtv
