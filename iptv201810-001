@@ -130,7 +130,7 @@ http://146.120.225.137:8107/30708
 #EXTINF:-1,HU | Galaxy4
 http://smtv.be/iptv/stream2.php?s=PHKZSHNQ127gohM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
-http://37.152.135.169:9002/play/a00i
+http://92.249.143.12:10000/play/a00r
 #EXTINF:-1,HU | Sorozat+
 http://146.120.225.137:8112/31214
 #EXTINF:-1,HU | Digi Sport 1 (HD)
