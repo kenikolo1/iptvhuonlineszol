@@ -301,6 +301,8 @@ rtmp://193.138.125.14:1935/live/kolcseytv.stream
 http://cloudfront20.lexanetwork.com:1630/HDE022.webm
 #EXTINF:-1,Helyi | Hatoscsatorna
 http://87.229.77.131:8081/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1,HU | Pax TV
+http://92.249.143.12:10000/play/a00e
 #EXTINF:-1,Helyi | Halom TV
 rtmp://stream.battanet.hu:1935/halom/tv
 #EXTINF:-1,Helyi | Líceum TV
