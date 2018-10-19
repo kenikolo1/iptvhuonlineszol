@@ -61,6 +61,8 @@ http://streams.iptv.zone:80/p/448250/c/39/u/121343/0MqryTrXakC7LZ0WnHmuHk4CsHnEw
 http://146.120.225.137:8107/30704
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
 http://146.120.225.137:8105/31011
+#EXTINF:-1,HU | Digi World (HD)
+http://37.152.135.169:9002/play/a005
 #EXTINF:-1,HU | Digi Animal World (Több nyelven)
 http://31.208.124.150:8001/1:0:1:177A:7:1:E082E56:0:0:0:
 #EXTINF:-1,HU | FilmNow
@@ -125,6 +127,8 @@ http://146.120.225.137:8115/30919
 http://164.132.136.176:8888/0066
 #EXTINF:-1,HU | Story4
 http://146.120.225.137:8107/30708
+#EXTINF:-1,HU | Galaxy4
+http://smtv.be/iptv/stream2.php?s=PHKZSHNQ127gohM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
 http://37.152.135.169:9002/play/a00i
 #EXTINF:-1,HU | Sorozat+
@@ -146,7 +150,7 @@ http://146.120.225.137:8117/2016
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
 http://146.120.225.137:8110/30608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery (Több nyelven)
-http://176.119.66.242:5555/udp/239.2.65.127:1234
+http://145.236.177.17:9003/play/investdisc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png",HU | Auto Motor Sport
 http://146.120.225.137:8110/30606
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
@@ -230,7 +234,7 @@ https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",Helyi | Balaton TV
 http://stream.iptvservice.eu:80/hls/balatontv.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5921.png",HU | Fit HD
-https://c401-node62-cdn.connectmedia.hu/6272/e84fb04130e93d0a0438e8067bf97512/5bc5dfe2/index.m3u8
+https://c402-node61-cdn.connectmedia.hu/6272/e756e15fc660378bfead42e15c7f9a50/5bc8ed77/index.m3u8
 #EXTINF:-1,HU | Heti TV
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=hetitv
 #EXTINF:-1,Helyi | City TV
