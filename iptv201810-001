@@ -219,6 +219,8 @@ rtmp://video.fixhd.tv:1935/fix/hd.stream
 http://92.249.143.12:10000/play/a005
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
 http://145.236.177.17:9003/play/natgeo
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic (HD)
+http://146.120.225.137:8117/2018
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
 http://92.249.143.12:10000/play/a009
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
