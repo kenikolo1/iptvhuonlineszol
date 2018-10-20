@@ -65,6 +65,8 @@ http://146.120.225.137:8105/31011
 http://37.152.135.169:9002/play/a005
 #EXTINF:-1,HU | Digi Animal World (Több nyelven)
 http://31.208.124.150:8001/1:0:1:177A:7:1:E082E56:0:0:0:
+#EXTINF:-1,HU | Digi Life
+http://smtv.be/iptv/stream2.php?s=A1swrKlQPHuVC9J
 #EXTINF:-1,HU | FilmNow
 http://31.208.124.150:8001/1:0:1:41A:3:1:E082F62:0:0:0:
 #EXTINF:-1,HU | Travel Channel
@@ -73,6 +75,8 @@ http://146.120.225.137:8105/31003
 http://31.208.124.150:8001/1:0:19:791B:2C6:600:E080000:0:0:0:
 #EXTINF:-1,HU | Ozone TV
 http://31.208.124.150:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
+#EXTINF:-1,HU | Life TV
+http://smtv.be/iptv/stream2.php?s=T9klFL60CVI6Qkf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science
 http://146.120.225.137:8107/30706
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
@@ -92,7 +96,7 @@ http://146.120.225.137:8107/30702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
 http://164.132.136.176:8888/0059
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
-http://145.236.177.17:9003/play/megamax
+http://smtv.be/iptv/stream2.php?s=DptfgJIfSsLEHYE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://146.120.225.137:8103/30315
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
@@ -150,7 +154,7 @@ http://146.120.225.137:8117/2016
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
 http://146.120.225.137:8110/30608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery (Több nyelven)
-http://145.236.177.17:9003/play/investdisc
+http://smtv.be/iptv/stream2.php?s=mRnjRxsVHA2MRr2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png",HU | Auto Motor Sport
 http://146.120.225.137:8110/30606
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
@@ -163,10 +167,16 @@ http://146.120.225.137:8112/31215
 http://146.120.225.137:8114/508
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/250px-MTV_Rocks_2017_logo.svg.png",EN | MTV Rock
 http://146.120.225.137:8114/511
+#EXTINF:-1,EN | MTV Live (HD)
+http://smtv.be/iptv/stream2.php?s=uoKmLSQnXwDCd9E
+#EXTINF:-1,EN | MTV Dance
+http://smtv.be/iptv/stream2.php?s=cyQL3r7jxEumt8W
 #EXTINF:-1,EN | VH1
 http://146.120.225.137:8114/507
 #EXTINF:-1 tvg-logo="http://1music.hu/image/kocka.jpg",HU | 1Music Channel
-http://1music.hu/1music.m3u8
+http://smtv.be/iptv/stream2.php?s=TsHR97suwSkMrWI
+#EXTINF:-1,HU | HIT! Music Channel
+http://smtv.be/iptv/stream2.php?s=ocfTb34I6gzN7dV
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
 http://146.120.225.137:8115/30903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
@@ -174,7 +184,7 @@ http://146.120.225.137:8115/30904
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History
 http://92.249.143.12:10000/play/a00a
 #EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/5b4f2762_med.png",HU | Viasat Nature (Több nyelven)
-http://31.31.127.73:81/udp/239.2.170.136:1234
+http://smtv.be/iptv/stream2.php?s=iGPiKU56gZSxoaF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon
 http://92.249.143.12:10000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
@@ -190,7 +200,7 @@ http://146.120.225.137:8105/31005
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO 2
 http://146.120.225.137:8107/30705
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502",HU | HBO 3
-http://145.236.177.17:9005/play/hbo3
+http://smtv.be/iptv/stream2.php?s=PPVKnuRQrCPGlXM
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
 http://146.120.225.137:8115/30912
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
@@ -226,7 +236,7 @@ http://92.249.143.12:10000/play/a009
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
 http://146.120.225.137:8109/30501
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6008.png",HU | DOQ
-http://onlinestream.hu/redirect/hbbtv-as.cgi?id=doqtv
+http://smtv.be/iptv/stream2.php?s=MueV9cXeWUduakH
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
