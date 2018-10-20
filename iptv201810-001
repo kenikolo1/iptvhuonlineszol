@@ -182,7 +182,7 @@ http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
 http://146.120.225.137:8107/30712
 #EXTINF:-1,HU | Spektrum Home
-http://31.208.124.150:8001/1:0:1:7666:2BF:600:E080000:0:0:0:
+http://92.249.143.12:10000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
 http://146.120.225.137:8102/30202
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO (HD)
@@ -218,7 +218,7 @@ rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
 http://92.249.143.12:10000/play/a005
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
-http://145.236.177.17:9003/play/natgeo
+http://92.249.143.12:10000/play/a00x
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic (HD)
 http://146.120.225.137:8117/2018
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
