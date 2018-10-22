@@ -219,7 +219,7 @@ http://92.249.143.12:10000/play/a00v
 http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19653.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19652.ts
 #EXTINF:-1,HU | Spektrum Home
 http://92.249.143.12:10000/play/a014
