@@ -9,10 +9,10 @@ http://146.120.225.137:8110/30607
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/b/b6/M3_logo.png",HU | M3
 http://146.120.225.137:8112/31202
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
-http://146.120.225.137:8105/31006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport
 http://31.208.124.150:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
+http://146.120.225.137:8105/31006
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
 http://146.120.225.137:8103/30325
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5 (HD)
@@ -41,9 +41,9 @@ http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/5550.ts
 http://146.120.225.137:8102/30203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+ (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11971.ts
-#EXTINF:-1,HU | Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png",HU | Cinemax
 http://146.120.225.137:8107/30709
-#EXTINF:-1,HU | Cinemax (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png",HU | Cinemax (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22182.ts
 #EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2
 http://146.120.225.137:8115/30914
@@ -57,33 +57,33 @@ http://146.120.225.137:8109/30507
 http://146.120.225.137:8102/30201
 #EXTINF:-1 tvg-logo="http://hu.upcdirect.com/userfiles/channels/logos/FILMBOX_PLUS.png",HU | FilmBox Plus
 http://146.120.225.137:8102/30217
-#EXTINF:-1,HU | Paramount Channel
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://146.120.225.137:8114/501
-#EXTINF:-1,HU | AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1000px-AMC_logo_2016.svg.png",HU | AMC
 http://31.208.124.150:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
 http://146.120.225.137:8103/30303
-#EXTINF:-1,HU | BBC Earth (Több nyelven)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg",HU | BBC Earth (Több nyelven)
 http://streams.iptv.zone:80/p/448250/c/39/u/121343/0MqryTrXakC7LZ0WnHmuHk4CsHnEw4
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
 http://146.120.225.137:8107/30704
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
 http://146.120.225.137:8105/31011
-#EXTINF:-1,HU | Digi World (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
 http://37.152.135.169:9002/play/a005
-#EXTINF:-1,HU | Digi Animal World (Több nyelven)
+#EXTINF:-1 tvg-logo="http://digi.hu/sites/default/files/dokumentumtar/digi_animal_world.png",HU | Digi Animal World (Több nyelven)
 http://31.208.124.150:8001/1:0:1:177A:7:1:E082E56:0:0:0:
-#EXTINF:-1,HU | Digi Animal World (HD)
+#EXTINF:-1 tvg-logo="http://digi.hu/sites/default/files/dokumentumtar/digi_animal_world.png",HU | Digi Animal World (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19650.ts
-#EXTINF:-1,HU | Digi Life (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Digi_Life.png",HU | Digi Life (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/16217.ts
-#EXTINF:-1,HU | FilmNow
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/film_now_wide.png?itok=SJ-V1fgX",HU | FilmNow
 http://31.208.124.150:8001/1:0:1:41A:3:1:E082F62:0:0:0:
-#EXTINF:-1,HU | Travel Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/60.ts
-#EXTINF:-1,HU | Travel Channel (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/800px-Travel_Channel_HD_Logo.png",HU | Travel Channel (HD)
 http://31.208.124.150:8001/1:0:19:791B:2C6:600:E080000:0:0:0:
-#EXTINF:-1,HU | Ozone TV
+#EXTINF:-1 tvg-logo="https://zoldunio.hu/images/szakmai-partnerek/OzoneTv/logo-betekinto-OzoneTv.png",HU | Ozone TV
 http://31.208.124.150:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science
 http://146.120.225.137:8107/30706
@@ -93,21 +93,21 @@ http://146.120.225.137:8103/30307
 http://146.120.225.137:8103/30308
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11973.ts
-#EXTINF:-1,HU | RTL Gold
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
 http://146.120.225.137:8112/31219
-#EXTINF:-1,HU | RTL 2
+#EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2
 http://146.120.225.137:8112/31212
-#EXTINF:-1,HU | RTL 2 (HD)
+#EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2 (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11972.ts
 #EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
 http://146.120.225.137:8103/30309
-#EXTINF:-1,HU | Boomerang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",HU | Boomerang
 http://146.120.225.137:8107/30710
-#EXTINF:-1,HU | Kiwi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",HU | Kiwi TV
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/3328.ts
-#EXTINF:-1,HU | Duck TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg",HU | Duck TV
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/5526.ts
-#EXTINF:-1,HU | JimJam
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/jimjam_2018_wide.png?itok=ZjGaIPzw",HU | JimJam
 http://146.120.225.137:8107/30702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
 http://164.132.136.176:8888/0059
@@ -123,21 +123,21 @@ http://146.120.225.137:8103/30319
 http://146.120.225.137:8108/30405
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/80e6afe391f489f3af8a6d02fe869b7a.png",HU | Film Mánia
 http://146.120.225.137:8108/30415
-#EXTINF:-1,HU | EpicDrama (HD)
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/epic_drama_wide.png?itok=3V5QT2Yy",HU | EpicDrama (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19660.ts
-#EXTINF:-1,HU | AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",HU | AXN
 http://146.120.225.137:8111/11004
-#EXTINF:-1,HU | AXN Black
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1280px-AXN_Black_logo_%282015%29.svg.png",HU | AXN Black
 http://146.120.225.137:8111/11003
-#EXTINF:-1,HU | AXN White
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png",HU | AXN White
 http://146.120.225.137:8111/11002
-#EXTINF:-1,HU | Sony Max
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/sony_max_large.preview.jpg",HU | Sony Max
 http://31.208.124.150:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
-#EXTINF:-1,HU | Sony Movie Channel
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/sony_movie_channel_wide.png?itok=j80jjyBq",HU | Sony Movie Channel
 http://31.208.124.150:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
-#EXTINF:-1,HU | Comedy Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png",HU | Comedy Central
 http://146.120.225.137:8114/503
-#EXTINF:-1,HU | Comedy Central Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Comedy_Central_Family_2011_Logo.png/200px-Comedy_Central_Family_2011_Logo.png",HU | Comedy Central Family
 http://146.120.225.137:8114/502
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",EN | Fashion TV
 http://146.120.225.137:8109/30510
@@ -147,11 +147,11 @@ http://146.120.225.137:8109/30524
 http://146.120.225.137:8115/30919
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png",HU | TV4
 http://164.132.136.176:8888/0066
-#EXTINF:-1,HU | Story4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Story4_2018_logo.png",HU | Story4
 http://146.120.225.137:8107/30708
-#EXTINF:-1,HU | Galaxy4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Galaxy4_logo.png",HU | Galaxy4
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/78.ts
-#EXTINF:-1,HU | Film4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png",HU | Film4
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/12178.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
 http://92.249.143.12:10000/play/a00r
