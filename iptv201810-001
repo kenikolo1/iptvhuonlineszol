@@ -39,10 +39,16 @@ http://152.66.115.226:33390/bysid/204
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/5550.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
 http://146.120.225.137:8102/30203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+ (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11971.ts
 #EXTINF:-1,HU | Cinemax
 http://146.120.225.137:8107/30709
+#EXTINF:-1,HU | Cinemax (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22182.ts
 #EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2
 http://146.120.225.137:8115/30914
+#EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2 (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22181.ts
 #EXTINF:-1 tvg-logo="http://static.est.hu/kepek/292/640/292967_640_filmbox_extrahd.jpg",HU | FilmBox Extra HD
 http://146.120.225.137:8109/30523
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
@@ -67,24 +73,26 @@ http://146.120.225.137:8105/31011
 http://37.152.135.169:9002/play/a005
 #EXTINF:-1,HU | Digi Animal World (Több nyelven)
 http://31.208.124.150:8001/1:0:1:177A:7:1:E082E56:0:0:0:
+#EXTINF:-1,HU | Digi Animal World (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19650.ts
 #EXTINF:-1,HU | Digi Life (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/16217.ts
 #EXTINF:-1,HU | FilmNow
 http://31.208.124.150:8001/1:0:1:41A:3:1:E082F62:0:0:0:
 #EXTINF:-1,HU | Travel Channel
-http://146.120.225.137:8105/31003
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/60.ts
 #EXTINF:-1,HU | Travel Channel (HD)
 http://31.208.124.150:8001/1:0:19:791B:2C6:600:E080000:0:0:0:
 #EXTINF:-1,HU | Ozone TV
 http://31.208.124.150:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
-#EXTINF:-1,HU | Life TV
-http://smtv.be/iptv/stream2.php?s=T9klFL60CVI6Qkf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png",HU | Discovery Science
 http://146.120.225.137:8107/30706
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
 http://146.120.225.137:8103/30307
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
 http://146.120.225.137:8103/30308
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11973.ts
 #EXTINF:-1,HU | RTL Gold
 http://146.120.225.137:8112/31219
 #EXTINF:-1,HU | RTL 2
@@ -95,6 +103,10 @@ http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11972.ts
 http://146.120.225.137:8103/30309
 #EXTINF:-1,HU | Boomerang
 http://146.120.225.137:8107/30710
+#EXTINF:-1,HU | Kiwi TV
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/3328.ts
+#EXTINF:-1,HU | Duck TV
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/5526.ts
 #EXTINF:-1,HU | JimJam
 http://146.120.225.137:8107/30702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
@@ -103,12 +115,16 @@ http://164.132.136.176:8888/0059
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/26.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://146.120.225.137:8103/30315
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22186.ts
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
 http://146.120.225.137:8103/30319
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/fine_living_wide.png?itok=CxnY5sia",HU | Fine Living
 http://146.120.225.137:8108/30405
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/80e6afe391f489f3af8a6d02fe869b7a.png",HU | Film Mánia
 http://146.120.225.137:8108/30415
+#EXTINF:-1,HU | EpicDrama (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19660.ts
 #EXTINF:-1,HU | AXN
 http://146.120.225.137:8111/11004
 #EXTINF:-1,HU | AXN Black
@@ -135,10 +151,14 @@ http://164.132.136.176:8888/0066
 http://146.120.225.137:8107/30708
 #EXTINF:-1,HU | Galaxy4
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/78.ts
+#EXTINF:-1,HU | Film4
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/12178.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
 http://92.249.143.12:10000/play/a00r
 #EXTINF:-1,HU | Sorozat+
 http://146.120.225.137:8112/31214
+#EXTINF:-1,HU | Humor+
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/3327.ts
 #EXTINF:-1,HU | Digi Sport 1
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/16.ts
 #EXTINF:-1,HU | Digi Sport 1 (HD)
@@ -161,7 +181,7 @@ http://146.120.225.137:8107/30719
 http://146.120.225.137:8117/2016
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
 http://146.120.225.137:8110/30608
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery (Több nyelven)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/68.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png",HU | Auto Motor Sport
 http://146.120.225.137:8110/30606
@@ -182,9 +202,11 @@ http://146.120.225.137:8114/507
 #EXTINF:-1 tvg-logo="http://1music.hu/image/kocka.jpg",HU | 1Music Channel
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/5529.ts
 #EXTINF:-1,HU | HIT! Music Channel
-http://smtv.be/iptv/stream2.php?s=ocfTb34I6gzN7dV
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/11968.ts
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
 http://146.120.225.137:8115/30903
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22183.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
 http://146.120.225.137:8115/30904
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History
@@ -198,7 +220,7 @@ http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19653.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",HU | Spektrum
-http://146.120.225.137:8107/30712
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19652.ts
 #EXTINF:-1,HU | Spektrum Home
 http://92.249.143.12:10000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
@@ -229,6 +251,8 @@ http://178.248.200.126:8000/udp/239.200.1.96:5510
 http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/21995.ts
 #EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
 http://31.208.124.150:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22188.ts
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781906_logo_cbs_reality.png",HU | CBS Reality
 http://146.120.225.137:8115/30905
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV
@@ -243,6 +267,8 @@ rtmp://video.fixhd.tv:1935/fix/sd.stream
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
 http://92.249.143.12:10000/play/a005
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting (HD)
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/19654.ts
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
 http://92.249.143.12:10000/play/a00x
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic (HD)
@@ -252,7 +278,7 @@ http://92.249.143.12:10000/play/a009
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
 http://146.120.225.137:8109/30501
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6008.png",HU | DOQ
-http://smtv.be/iptv/stream2.php?s=MueV9cXeWUduakH
+http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/75.ts
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
