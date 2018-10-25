@@ -43,12 +43,8 @@ http://146.120.225.137:8102/30203
 http://94.21.113.231:7522/upnp/channelstream/12
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png",HU | Cinemax
 http://146.120.225.137:8107/30709
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png",HU | Cinemax (HD)
-http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22182.ts
 #EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2
 http://146.120.225.137:8115/30914
-#EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2 (HD)
-http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/22181.ts
 #EXTINF:-1 tvg-logo="http://static.est.hu/kepek/292/640/292967_640_filmbox_extrahd.jpg",HU | FilmBox Extra HD
 http://146.120.225.137:8109/30523
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
