@@ -145,6 +145,8 @@ http://146.120.225.137:8107/30708
 http://94.21.113.231:7522/upnp/channelstream/14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
 http://92.249.143.12:10000/play/a00r
+#EXTINF:-1,HU | Humor+
+http://146.120.225.137:8113/31117
 #EXTINF:-1,HU | Sorozat+
 http://146.120.225.137:8112/31214
 #EXTINF:-1,HU | Digi Sport 1 (HD)
