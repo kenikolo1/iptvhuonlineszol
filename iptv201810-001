@@ -87,8 +87,6 @@ http://146.120.225.137:8107/30706
 http://146.120.225.137:8103/30307
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
 http://146.120.225.137:8103/30308
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
-http://94.21.113.231:7522/upnp/channelstream/10
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
 http://146.120.225.137:8112/31219
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2
@@ -96,7 +94,7 @@ http://146.120.225.137:8112/31212
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2 (HD)
 http://46.35.192.105:5228/udp/239.123.13.153:57153
 #EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
-http://146.120.225.137:8103/30309
+http://164.132.136.176:8888/0058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",HU | Boomerang
 http://146.120.225.137:8107/30710
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg",HU | Duck TV
@@ -111,6 +109,8 @@ http://164.132.136.176:8888/0059
 http://84.0.3.80:9003/play/megamax
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://146.120.225.137:8103/30315
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD)
+http://streams.iptv.zone:80/p/472804/c/161/u/173241/Px5qDh2QPtK8Nsa8ZQJQw0gcEG7ppV
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
 http://146.120.225.137:8103/30319
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/fine_living_wide.png?itok=CxnY5sia",HU | Fine Living
