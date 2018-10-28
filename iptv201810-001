@@ -56,7 +56,7 @@ http://146.120.225.137:8102/30217
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://146.120.225.137:8114/501
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1000px-AMC_logo_2016.svg.png",HU | AMC
-http://31.208.124.150:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
+http://145.236.177.30:9003/play/amc
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png",HU | Food Network
 http://146.120.225.137:8103/30303
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg",HU | BBC Earth (Több nyelven)
@@ -106,7 +106,7 @@ http://146.120.225.137:8107/30702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
 http://164.132.136.176:8888/0059
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
-http://84.0.3.80:9003/play/megamax
+http://145.236.177.30:9003/play/megamax
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://146.120.225.137:8103/30315
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD)
@@ -205,6 +205,8 @@ http://92.249.143.12:10000/play/a00v
 http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
 http://94.21.113.231:7522/upnp/channelstream/8
+#EXTINF:-1,HU | Spektrum
+http://145.236.177.30:9001/play/spektrum
 #EXTINF:-1,HU | Spektrum Home
 http://92.249.143.12:10000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
@@ -214,7 +216,7 @@ http://146.120.225.137:8105/31005
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO 2
 http://146.120.225.137:8107/30705
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502",HU | HBO 3
-http://146.120.225.137:8109/30505
+http://145.236.177.30:9004/play/a00w
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
 http://146.120.225.137:8115/30912
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
