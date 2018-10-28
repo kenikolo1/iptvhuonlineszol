@@ -10,7 +10,7 @@ http://152.66.115.226:33390/bysid/200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/b/b6/M3_logo.png",HU | M3
 http://146.120.225.137:8112/31202
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport
-http://31.208.124.150:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:
+http://145.236.177.30:9004/play/a00x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
 http://146.120.225.137:8105/31006
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
