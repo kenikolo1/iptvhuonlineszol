@@ -45,11 +45,11 @@ http://146.120.225.137:8109/30507
 http://146.120.225.137:8102/30201
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_plus_wide.png?itok=ZzMy9vxz",HU | FilmBox Plus
 http://146.120.225.137:8102/30217
-#EXTINF:-1,HU | DocuBox (HD)
+#EXTINF:-1,EN | DocuBox (HD)
 http://80.87.208.158:80/dna-4611-tv-pc.m3u8
-#EXTINF:-1,HU | FightBox (HD)
+#EXTINF:-1,EN | FightBox (HD)
 http://80.87.208.158:80/dna-4571-tv-pc.m3u8
-#EXTINF:-1,HU | FashionBox (HD)
+#EXTINF:-1,EN | FashionBox (HD)
 http://80.87.208.158:80/dna-4591-tv-pc.m3u8
 #EXTINF:-1,4K | NR1 TV (4K)
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
