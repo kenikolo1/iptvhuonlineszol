@@ -150,11 +150,9 @@ http://146.120.225.137:8113/31117
 #EXTINF:-1,HU | Sorozat+
 http://146.120.225.137:8112/31214
 #EXTINF:-1,HU | Digi Sport 1 (HD)
-hhttp://146.120.225.137:8104/4020
+http://146.120.225.137:8104/4020
 #EXTINF:-1,HU | Digi Sport 2 (HD)
 http://146.120.225.137:8104/4060
-#EXTINF:-1,HU | Digi Sport 3 (HD)
-http://94.21.113.231:7522/upnp/channelstream/118
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1
 http://146.120.225.137:8115/30901
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1 (HD)
