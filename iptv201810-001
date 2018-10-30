@@ -72,7 +72,7 @@ http://31.208.124.150:8001/1:0:1:177A:7:1:E082E56:0:0:0:
 #EXTINF:-1 tvg-logo="http://digi.hu/sites/default/files/dokumentumtar/digi_animal_world.png",HU | Digi Animal World (HD)
 http://94.21.113.231:7522/upnp/channelstream/71
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/film_now_wide.png?itok=SJ-V1fgX",HU | FilmNow
-http://31.208.124.150:8001/1:0:1:41A:3:1:E082F62:0:0:0:
+http://86.124.229.79:7300/digifilmhu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
 http://46.35.192.105:5228/udp/239.123.13.140:57140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/800px-Travel_Channel_HD_Logo.png",HU | Travel Channel (HD)
@@ -204,7 +204,7 @@ http://146.120.225.137:8115/30907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
 http://94.21.113.231:7522/upnp/channelstream/8
 #EXTINF:-1,HU | Spektrum
-http://145.236.177.30:9001/play/spektrum
+http://92.249.143.12:10000/play/spektrum
 #EXTINF:-1,HU | Spektrum Home
 http://92.249.143.12:10000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
@@ -260,9 +260,9 @@ http://live.streamhungary.com:8888/live/testuser4099/UFjjQmvOhS/75.ts
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
-http://31.208.124.150:8001/1:0:1:798E:2C7:600:E080000:0:0:0:
+http://164.132.136.176:8888/0063
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6163.png",HU | Izaura TV
-http://31.208.124.150:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:
+http://92.249.143.12:10000/play/a011
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/4798.png",HU | Bonum TV
 https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5913.png",Helyi | Balaton TV
