@@ -45,6 +45,14 @@ http://146.120.225.137:8109/30507
 http://146.120.225.137:8102/30201
 #EXTINF:-1 tvg-logo="http://hu.upcdirect.com/userfiles/channels/logos/FILMBOX_PLUS.png",HU | FilmBox Plus
 http://146.120.225.137:8102/30217
+#EXTINF:-1,HU | DocuBox (HD)
+http://80.87.208.158:80/dna-4611-tv-pc.m3u8
+#EXTINF:-1,HU | FightBox (HD)
+http://80.87.208.158:80/dna-4571-tv-pc.m3u8
+#EXTINF:-1,HU | FashionBox (HD)
+http://80.87.208.158:80/dna-4591-tv-pc.m3u8
+#EXTINF:-1,4K | NR1 TV (4K)
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://146.120.225.137:8114/501
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1000px-AMC_logo_2016.svg.png",HU | AMC
@@ -69,6 +77,8 @@ http://146.120.225.137:8107/30706
 http://146.120.225.137:8103/30307
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
 http://146.120.225.137:8103/30308
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
+http://62.165.239.145:7522/upnp/channelstream/12
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
 http://146.120.225.137:8112/31219
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2
@@ -129,6 +139,8 @@ http://146.120.225.137:8112/31214
 http://146.120.225.137:8104/4020
 #EXTINF:-1,HU | Digi Sport 2 (HD)
 http://146.120.225.137:8104/4060
+#EXTINF:-1,HU | Digi Sport 3 (HD)
+http://81.182.19.75:8001/1:0:1:407:3:1:E082F62:0:0:0:
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1
 http://146.120.225.137:8115/30901
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1 (HD)
@@ -169,6 +181,8 @@ http://46.35.192.105:5228/udp/239.123.13.145:57145
 http://92.249.143.12:10000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://146.120.225.137:8115/30907
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
+http://62.165.239.145:7522/upnp/channelstream/29
 #EXTINF:-1,HU | Spektrum
 http://92.249.143.12:10000/play/spektrum
 #EXTINF:-1,HU | Spektrum Home
@@ -195,6 +209,8 @@ http://146.120.225.137:8102/30224
 http://178.248.200.126:8000/udp/239.200.1.96:5510
 #EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
 http://bestbuyiptv.link:6969/live/szioka222222@citromail.hu/3WBSpjtbJc/8943.ts
+#EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika (HD)
+http://193.91.72.165:9981/stream/channelid/78331931
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781906_logo_cbs_reality.png",HU | CBS Reality
 http://146.120.225.137:8115/30905
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/4739.png",HU | ATV
