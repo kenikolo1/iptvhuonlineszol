@@ -181,8 +181,6 @@ http://46.35.192.105:5228/udp/239.123.13.145:57145
 http://92.249.143.12:10000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://146.120.225.137:8115/30907
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
-http://62.165.239.145:7522/upnp/channelstream/29
 #EXTINF:-1,HU | Spektrum
 http://92.249.143.12:10000/play/spektrum
 #EXTINF:-1,HU | Spektrum Home
