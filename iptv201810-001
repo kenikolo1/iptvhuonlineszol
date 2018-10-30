@@ -41,9 +41,9 @@ http://146.120.225.137:8115/30914
 http://146.120.225.137:8109/30523
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
 http://146.120.225.137:8109/30507
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/FilmBox_Family_%282013%29.svg/revision/latest?cb=20171210175502",HU | FilmBox Family
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_family_wide.png?itok=9osDDAEu",HU | FilmBox Family
 http://146.120.225.137:8102/30201
-#EXTINF:-1 tvg-logo="http://hu.upcdirect.com/userfiles/channels/logos/FILMBOX_PLUS.png",HU | FilmBox Plus
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_plus_wide.png?itok=ZzMy9vxz",HU | FilmBox Plus
 http://146.120.225.137:8102/30217
 #EXTINF:-1,HU | DocuBox (HD)
 http://80.87.208.158:80/dna-4611-tv-pc.m3u8
