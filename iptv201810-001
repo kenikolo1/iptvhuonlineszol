@@ -65,6 +65,8 @@ http://146.120.225.137:8107/30704
 http://146.120.225.137:8105/31011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
 http://37.152.135.169:9002/play/a005
+#EXTINF:-1,HU | Digi Animal World (HD)
+http://46.35.192.105:5228/udp/239.123.13.118:57118
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/film_now_wide.png?itok=SJ-V1fgX",HU | FilmNow
 http://86.124.229.79:7300/digifilmhu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
@@ -75,6 +77,8 @@ http://146.120.225.137:8105/31003
 http://146.120.225.137:8107/30706
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/images/film_cafe_large.w160.jpg",HU | Film Cafe
 http://146.120.225.137:8103/30307
+#EXTINF:-1,HU | EpicDrama (HD)
+http://62.165.239.145:7522/upnp/channelstream/36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
 http://146.120.225.137:8103/30308
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
@@ -129,6 +133,8 @@ http://164.132.136.176:8888/0066
 http://146.120.225.137:8107/30708
 #EXTINF:-1,HU | Galaxy4
 http://bestbuyiptv.link:6969/live/szioka222222@citromail.hu/3WBSpjtbJc/8901.ts
+#EXTINF:-1,HU | Film4
+http://62.165.239.145:7522/upnp/channelstream/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/1280px-RTL%2B_logo.svg.png",HU | RTL+
 http://92.249.143.12:10000/play/a00r
 #EXTINF:-1,HU | Humor+
@@ -191,6 +197,8 @@ http://146.120.225.137:8102/30202
 http://146.120.225.137:8105/31005
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO 2
 http://146.120.225.137:8107/30705
+#EXTINF:-1,HU | HBO 3
+http://86.124.229.79:7300/hbo3hu
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
 http://146.120.225.137:8115/30912
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
