@@ -89,6 +89,8 @@ http://145.236.249.212:9005/play/filmmania
 http://178.164.153.45:7522/upnp/channelstream/36
 #EXTINF:-1,HU | Life TV
 http://178.164.153.45:7522/upnp/channelstream/100
+#EXTINF:-1,HU | Ozone TV
+http://31.208.124.150:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
 http://178.164.153.45:7522/upnp/channelstream/78
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
