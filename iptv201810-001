@@ -209,6 +209,8 @@ http://92.249.143.12:10000/play/a00x
 http://46.35.192.105:5228/udp/239.123.13.186:57186
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
 http://92.249.143.12:10000/play/a009
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
+http://46.35.192.105:5228/udp/239.123.13.127:57127
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
