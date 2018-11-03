@@ -68,7 +68,7 @@ http://178.164.153.45:7522/upnp/channelstream/100
 #EXTINF:-1,HU | Ozone TV
 http://31.208.124.150:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
-http://178.164.153.45:7522/upnp/channelstream/78
+http://188.143.5.71:7522/upnp/channelstream/18
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool (HD)
 http://178.164.153.45:7522/upnp/channelstream/12
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
@@ -98,13 +98,13 @@ http://92.249.143.12:10000/play/a01x
 #EXTINF:-1,HU | Sony Movie Channel
 http://31.208.124.150:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
 #EXTINF:-1,HU | Sony Max
-http://178.164.153.45:7522/upnp/channelstream/25
+http://188.143.5.71:7522/upnp/channelstream/29
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",HU | AXN
 http://92.249.143.12:10000/play/a00p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png",HU | Comedy Central
 http://92.249.143.12:10000/play/a00u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Comedy_Central_Family_2011_Logo.png/200px-Comedy_Central_Family_2011_Logo.png",HU | Comedy Central Family
-http://178.164.153.45:7522/upnp/channelstream/67
+http://188.143.5.71:7522/upnp/channelstream/56
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History
 http://145.236.249.212:9003/play/history
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/FEM3_New_Logo.svg.png",HU | FEM3
@@ -146,11 +146,9 @@ http://178.164.153.45:7522/upnp/channelstream/70
 #EXTINF:-1,EN | MTV Dance
 http://80.87.208.158:80/dna-68-tv-pc.m3u8
 #EXTINF:-1,EN | VH1
-http://178.164.153.45:7522/upnp/channelstream/73
+http://188.143.5.71:7522/upnp/channelstream/55
 #EXTINF:-1,HU | 1Music Channel
-http://178.164.153.45:7522/upnp/channelstream/104
-#EXTINF:-1,HU | 1Music Channel (HD)
-http://178.164.153.45:7522/upnp/channelstream/104
+http://188.143.5.71:7522/upnp/channelstream/61
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
 http://46.35.192.105:5228/udp/239.123.13.230:57230
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/250px-Viasat_Explore_Logo.jpg",HU | Viasat Explore
@@ -170,7 +168,7 @@ http://178.164.153.45:7522/upnp/channelstream/29
 #EXTINF:-1,HU | Spektrum
 http://92.249.143.12:10000/play/spektrum
 #EXTINF:-1,HU | Spektrum (HD)
-http://178.164.153.45:7522/upnp/channelstream/50
+http://193.91.72.165:9981/stream/channelid/596206804
 #EXTINF:-1,HU | Spektrum Home
 http://92.249.143.12:10000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
