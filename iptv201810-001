@@ -54,13 +54,13 @@ http://80.87.208.158:80/dna-4591-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://46.35.192.105:5228/udp/239.123.13.168:57168
 #EXTINF:-1,HU | AMC
-http://46.139.139.201:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
+http://81.182.102.152:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
 #EXTINF:-1,HU | BBC Earth (HD/Több nyelven)
 http://84.2.209.108:8001/1:0:19:1C06:29:46:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
 http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/53.ts
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
-http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/21966.ts
+http://81.182.102.152:8001/1:0:19:7923:2C6:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
 http://37.152.135.169:9002/play/a005
 #EXTINF:-1,HU | Digi Animal World (HD)
@@ -90,7 +90,7 @@ http://84.236.90.124:9000/play/boomerang
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg",HU | Duck TV
 http://84.236.90.124:9000/play/duck
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
-http://46.139.139.201:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
+http://81.183.172.177:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
 http://145.236.249.212:9003/play/megamax
 #EXTINF:-1,HU | JimJam
@@ -102,21 +102,21 @@ http://84.2.209.108:8001/1:0:1:766B:2BF:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD)
 http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/22186.ts
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
-http://46.139.139.201:8001/1:0:1:766F:2BF:600:E080000:0:0:0:
+http://81.183.172.177:8001/1:0:1:766F:2BF:600:E080000:0:0:0:
 #EXTINF:-1,HU | Sony Max
 http://84.2.209.108:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
 #EXTINF:-1,HU | Sony Movie Channel
 http://31.208.124.150:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",HU | AXN
-http://46.139.139.201:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:
+http://84.2.209.108:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:
 #EXTINF:-1,HU | AXN Black
 http://81.183.172.177:8001/1:0:1:2AFB:B:1111:E082F3C:0:0:0:
 #EXTINF:-1,HU | AXN White
-http://46.139.139.201:8001/1:0:1:2AFA:B:1111:E082F3C:0:0:0:
+http://81.182.102.152:8001/1:0:1:2AFA:B:1111:E082F3C:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png",HU | Comedy Central
 http://81.183.172.177:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:
 #EXTINF:-1,HU | Comedy Central Family
-http://46.139.139.201:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
+http://81.183.172.177:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
 #EXTINF:-1,HU | Epic Drama (HD)
 http://188.6.147.240:8000/play/epicdramahd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History
@@ -156,7 +156,7 @@ http://84.2.209.108:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
 http://145.236.249.212:9003/play/slagertv
 #EXTINF:-1,HU | Muzsika TV
-http://92.249.143.12:10000/play/a00c
+http://84.2.209.108:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:
 #EXTINF:-1,EN | MTV Dance
 http://80.87.208.158:80/dna-68-tv-pc.m3u8
 #EXTINF:-1,EN | MTV Hits
@@ -174,13 +174,13 @@ http://81.183.172.177:8001/1:0:1:7982:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/5b4f2762_med.png",HU | Viasat Nature
 http://46.35.192.105:5228/udp/239.123.13.145:57145
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon (Több nyelven)
-http://46.139.139.201:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:
+http://84.2.209.108:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://176.118.42.26:7090/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
 http://188.6.147.240:8000/play/supertv2hd
 #EXTINF:-1,HU | Spektrum
-http://46.139.139.201:8001/1:0:1:759F:2BD:600:E080000:0:0:0:
+http://81.183.172.177:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU | Spektrum (HD)
 http://188.6.147.240:8000/play/spektrumhd
 #EXTINF:-1,HU | Spektrum Home
@@ -188,7 +188,7 @@ http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/77.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
 http://145.236.249.212:9001/play/hbo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO (HD)
-http://78.92.78.10:8001/1:0:19:7E1:AF2:BB:E080000:0:0:0:
+http://84.2.209.108:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
 #EXTINF:-1,HU | HBO 2
 http://81.182.102.152:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU | HBO 3
@@ -196,7 +196,7 @@ http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/41.ts
 #EXTINF:-1,HU | HBO 3 (HD)
 http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/22185.ts
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
-http://46.139.139.201:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
+http://81.183.172.177:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
 http://live.streamhungary.com:8888/live/testuser5091/9kcB3wkzFs/2557.ts
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1
