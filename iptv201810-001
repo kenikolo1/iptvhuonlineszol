@@ -323,7 +323,7 @@ http://92.249.143.12:10000/play/a00e
 rtmp://stream.battanet.hu:1935/halom/tv
 #EXTINF:-1,Helyi | Líceum TV
 rtmp://stream.r6.hu:1935/livepkgr/ltv
-#EXTINF:-1,Helyi | Hegyvidék TV
+#EXTINF:-1,Helyi | Hegyvidék TVn
 http://tv.hegyvidek.hu:80/stream_mpeg.flv
 #EXTINF:-1,Helyi | Tisza TV
 http://www.tiszatv.hu:443/tiszatv.f4v
