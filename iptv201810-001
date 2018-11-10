@@ -293,7 +293,7 @@ http://flussonic.streaming4u.hu:80/PilisTV/index.m3u8
 http://79.120.178.90:1935/csurgotv/live/playlist.m3u8
 #EXTINF:-1,Helyi | Tatabányi TV
 https://cloudfront61.lexanetwork.com:1440/hlsrelay007/hls/livestream.sdp.m3u8
-#EXTINF:-1,Helyi | Rábaközi TV
+#EXTINF:-1,Helyi | Rábaközi TV (HD)
 http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
 #EXTINF:-1,HU | Light Channel
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
