@@ -61,6 +61,8 @@ http://80.87.208.158:80/dna-4611-tv-pc.m3u8
 http://80.87.208.158:80/dna-4571-tv-pc.m3u8
 #EXTINF:-1,EN | FashionBox (HD)
 http://80.87.208.158:80/dna-4591-tv-pc.m3u8
+#EXTINF:-1,HU | BBC Earth
+http://92.249.232.82:7522/upnp/channelstream/150
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://46.35.192.105:5228/udp/239.123.13.168:57168
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
