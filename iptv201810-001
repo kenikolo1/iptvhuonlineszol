@@ -223,6 +223,8 @@ http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/10621.ts
 http://84.236.39.144:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
 http://164.132.136.176:8888/0085
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV (TESZT)
+http://81.182.151.65:9002/play/spilertvsat
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Spiler2_tv_logo.png",HU | Spíler2 TV
 http://178.248.200.126:8000/udp/239.200.1.96:5510
 #EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
