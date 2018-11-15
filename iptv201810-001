@@ -82,7 +82,7 @@ http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8895
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
 http://46.35.192.105:5228/udp/239.123.13.140:57140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel (HD)
-http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/21967.ts
+http://178.164.170.64:2225/play/travelchanhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/CHELLO_FILMMANNIA_Logo.jpg",HU | FilmMánia
 http://81.182.151.65:9005/play/filmmania#EXTM3U
 #EXTINF:-1 tvg-logo="https://zoldunio.hu/images/szakmai-partnerek/OzoneTv/logo-betekinto-OzoneTv.png",HU | Ozone TV
@@ -183,6 +183,10 @@ http://80.87.208.158:80/dna-68-tv-pc.m3u8
 http://178.164.170.64:2225/play/mtvhits
 #EXTINF:-1,HU | 1Music
 http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8456
+#EXTINF:-1,EN | VH1
+http://178.164.170.64:2225/play/vh1
+#EXTINF:-1,EN | VH1 Classic
+http://178.164.170.64:2225/play/vh1c
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel
 http://46.35.192.105:5228/udp/239.123.13.230:57230
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel (HD)
