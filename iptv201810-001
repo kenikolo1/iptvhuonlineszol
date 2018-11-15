@@ -30,7 +30,7 @@ http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2 (HD)
 http://46.35.192.105:5228/udp/239.123.13.132:57132
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3
-http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/30.ts
+http://92.249.143.12:10000/play/a00q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3 (HD)
 http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/22187.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV6_Viasat.svg/1200px-TV6_Viasat.svg.png",HU | Viasat 6
@@ -112,7 +112,7 @@ http://178.164.170.64:9000/play/a02r
 #EXTINF:-1,HU | Kiwi TV
 http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/28964
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
-http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8911
+http://92.249.143.12:10000/play/a010
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD)
 http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/22186.ts
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
@@ -122,7 +122,7 @@ http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/10400.ts
 #EXTINF:-1,HU | Sony Movie Channel
 http://84.236.39.144:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",HU | AXN
-http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8872
+http://92.249.143.12:10000/play/a00p
 #EXTINF:-1,HU | AXN Black
 http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8871
 #EXTINF:-1,HU | AXN White
@@ -198,7 +198,7 @@ http://84.236.39.144:8001/1:0:1:7982:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/ce60bff7/5b4f2762_med.png",HU | Viasat Nature
 http://46.35.192.105:5228/udp/239.123.13.145:57145
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon
-http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/27.ts
+http://92.249.143.12:10000/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://176.118.42.26:7090/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
@@ -208,7 +208,7 @@ http://178.164.170.64:2225/play/spektrum
 #EXTINF:-1,HU | Spektrum (HD)
 http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/19652.ts
 #EXTINF:-1,HU | Spektrum Home
-http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8928
+http://92.249.143.12:10000/play/spektrumhome
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
 http://178.164.170.64:2225/play/hbo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO (HD)
@@ -220,7 +220,7 @@ http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/41.ts
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
 http://84.236.39.144:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
-http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/2557.ts
+http://92.249.143.12:10000/play/a00i
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1
 http://178.164.170.64:2225/play/sport1
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1 (HD)
