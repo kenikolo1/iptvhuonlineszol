@@ -20,7 +20,7 @@ http://178.164.170.64:9000/play/duna
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5905.png",HU | Duna (HD)
 http://152.66.115.226:33391/bysid/121
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
-http://81.182.151.65:9002/play/dunaworld
+http://152.66.115.226:33391/bysid/120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub (HD)
