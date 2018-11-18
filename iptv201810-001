@@ -228,7 +228,7 @@ http://178.164.170.64:2225/play/sport1
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1 (HD)
 http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/10621.ts
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/SPORT2logo.png",HU | Sport 2
-http://84.236.39.144:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:
+http://37.220.128.130:9002
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV
 http://164.132.136.176:8888/0085
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/spiler1_tv_wide.png?itok=MvKUCseC",HU | Spíler1 TV (TESZT)
