@@ -218,7 +218,7 @@ http://92.249.143.12:10000/play/a00s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
 http://92.249.143.12:10000/play/a00i
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1
-http://178.164.170.64:2225/play/sport1
+http://217.65.112.240:9001/play/sport1
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1 (HD)
 http://live.streamhungary.com:8888/live/testuser50156/ZbFh1zmw29/10621.ts
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/SPORT2logo.png",HU | Sport 2
@@ -246,7 +246,7 @@ rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
-http://178.164.170.64:2225/play/fish
+http://94.21.16.222:2225/play/fish
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting (HD)
 http://46.35.192.105:5228/udp/239.123.13.120:57120
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
