@@ -49,6 +49,8 @@ http://134.255.56.201:9090/play/cinemaxhd
 http://94.21.16.222:9000/play/cinemax2
 #EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2 (HD)
 http://134.255.56.201:9090/play/cinemax2hd
+#EXTINF:-1,HU | FilmBox
+http://134.255.56.201:9090/play/filmbox
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
 http://94.21.16.222:9000/play/filmboxpremium
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/11/filmbox-premium-package-e1542041002137.png",HU | FilmBox Extra HD
@@ -131,10 +133,6 @@ http://80.95.70.205:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
 http://217.65.112.240:7701/play/a02x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",HU | AXN
 http://92.249.143.12:10000/play/a00p
-#EXTINF:-1,HU | AXN Black
-http://46.139.226.253:8001/1:0:1:2AFB:B:1111:E082F3C:0:0:0:
-#EXTINF:-1,HU | AXN White
-http://217.65.112.240:7701/play/a02r
 #EXTINF:-1,HU | EpicDrama (Több nyelven)
 http://92.84.226.163:9981/stream/channelid/1287086718?ticket=2B0EC92AE3790F9B4892FEEA98B44487C372BC82&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png",HU | Comedy Central
@@ -185,12 +183,14 @@ http://37.220.128.130:9100/32
 http://92.249.143.12:10000/play/a00d
 #EXTINF:-1,HU | Muzsika TV
 http://94.21.16.222:2225/play/muzsika
+#EXTINF:-1,EN | MTV Rock
+http://134.255.56.201:9090/play/mtvrocks
 #EXTINF:-1,EN | MTV Dance
 http://80.87.208.158:80/dna-68-tv-pc.m3u8
 #EXTINF:-1,EN | MTV Hits
 http://94.21.16.222:2225/play/mtvhits
-#EXTINF:-1,HU | 1Music
-http://bestbuyiptv.link:6969/kenikolo2@gmail.com/MVWj5gLDHX/8456
+#EXTINF:-1,EN | Mezzo (HD)
+http://134.255.56.201:9090/play/mezzohd
 #EXTINF:-1,EN | VH1
 http://94.21.16.222:2225/play/vh1
 #EXTINF:-1,EN | VH1 Classic
