@@ -74,7 +74,7 @@ http://145.236.143.168:8000/play/bbcearth
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
 http://94.21.131.253:9000/play/animal
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
-http://94.21.131.253:9000/play/animalplanethd
+http://94.21.131.253:2225/play/animalplanethd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World
 http://94.21.131.253:2225/play/a011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
@@ -104,7 +104,7 @@ http://46.139.102.0:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://zoldunio.hu/images/szakmai-partnerek/OzoneTv/logo-betekinto-OzoneTv.png",HU | Life TV
 http://145.236.143.168:8000/play/lifetv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
-http://46.139.102.0:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
+http://94.21.131.253:2225/play/gold
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2
 http://80.87.208.158:80/dna-4004-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2 (HD)
@@ -124,7 +124,7 @@ http://164.132.136.176:8888/0059
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
 http://84.0.3.3:9003/play/megamax
 #EXTINF:-1,HU | JimJam
-http://46.139.102.0:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:
+http://134.255.54.152:9090/play/jimjam
 #EXTINF:-1,HU | Kiwi TV
 http://134.255.54.152:9090/play/kiwi
 #EXTINF:-1,HU | AMC
@@ -176,13 +176,13 @@ http://94.21.131.253:2225/play/a00z
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1 (HD/Több nyelven)
 http://81.182.101.56:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:
 #EXTINF:-1,HU | Eurosport 2
-http://46.139.102.0:8001/1:0:1:77FE:2C3:600:E080000:0:0:0:
+http://94.21.131.253:9000/play/a033
 #EXTINF:-1,HU | Eurosport 2 (HD/Több nyelven)
 http://81.182.101.56:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://hirtv.hu/static/hirtv/images/hirtv.jpg",HU | Hír TV
 http://37.220.128.130:9100/14
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",HU | Investigation Discovery
-http://46.139.102.0:8001/1:0:1:7987:2C7:600:E080000:0:0:0:
+http://84.0.3.3:9003/play/investdisc
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad-iii/images/c/ca/TLC-logo-colour.png/revision/latest?cb=20170703203217",HU | TLC
 http://37.220.128.130:9100/32
 #EXTINF:-1 tvg-logo="https://mindigtv.hu/resize/PL5YHyrt8b.jpg",HU | Sláger TV
@@ -194,7 +194,7 @@ http://94.21.131.253:2225/play/mtvrocks
 #EXTINF:-1,EN | MTV Dance
 http://80.87.208.158:80/dna-68-tv-pc.m3u8
 #EXTINF:-1,EN | MTV Hits
-http://46.139.102.0:8001/1:0:1:1FC:1B:2C0:E080000:0:0:0:
+http://134.255.54.152:9090/play/mtvhits
 #EXTINF:-1,EN | Mezzo
 http://94.21.131.253:2225/play/a01c
 #EXTINF:-1,HU | Music Channel
@@ -208,7 +208,7 @@ http://37.220.128.130:9100/33
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel (HD)
 http://134.255.54.152:9090/play/dischd
 #EXTINF:-1,HU | Discovery Science
-http://46.139.102.0:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
+http://94.21.131.253:9000/play/discoveryscience
 #EXTINF:-1,HU | Discovery Showcase HD
 http://31.46.157.241:8001/1:0:19:7921:2C6:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History
@@ -224,7 +224,7 @@ http://94.21.131.253:2225/play/spektrum
 #EXTINF:-1,HU | Spektrum (HD)
 http://145.236.143.168:8000/play/spektrumhd
 #EXTINF:-1,HU | Spektrum Home
-http://145.236.143.168:8000/play/spektrumhome
+http:\\mypanel.tv:8080\hDwWOtcFfC\gYntrjV2H9\13259
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
 http://94.21.131.253:2225/play/hbo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO (HD)
