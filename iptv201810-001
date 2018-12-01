@@ -93,6 +93,8 @@ http://79.120.253.244:4000/udp/239.1.1.82:5000
 http://5.38.254.188:9090/play/filmnow
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",HU | FilmCafe
 http://5.38.254.188:9090/play/filmcafe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",HU | FilmCafe (HD)
+http://79.120.253.244:4000/udp/239.1.1.253:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
 http://79.120.253.244:4000/udp/239.1.1.143:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel (HD)
@@ -135,6 +137,8 @@ http://5.38.254.188:9090/play/jimjam
 http://5.38.254.188:9090/play/kiwi
 #EXTINF:-1,HU | AMC
 http://5.38.254.188:9090/play/amc
+#EXTINF:-1,HU | AMC (HD)
+http://79.120.253.244:4000/udp/239.1.1.249:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://79.120.253.244:4000/udp/239.1.1.126:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD)
@@ -299,6 +303,8 @@ http://79.120.253.244:4000/udp/239.1.1.87:5000
 http://79.120.253.244:4000/udp/239.1.1.197:5000
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
 http://164.132.136.176:8888/0089
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
+http://79.120.253.244:4000/udp/239.1.1.173:5000
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
