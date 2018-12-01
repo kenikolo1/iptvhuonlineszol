@@ -24,7 +24,7 @@ http://152.66.115.226:33391/bysid/121
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World
 http://152.66.115.226:33391/bysid/120
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5906.png",HU | Duna World (HD)
-http://79.120.253.244:4000/udp/239.1.1.245:5000
+http://81.182.215.190:8000/play/dunaworldhd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub (HD)
@@ -32,9 +32,9 @@ http://5.38.254.188:9090/play/rtlhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2 (HD)
-http://79.120.253.244:4000/udp/239.1.1.132:5000
+http://81.182.215.190:8000/play/tv2hd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3
-http://79.120.253.244:4000/udp/239.1.1.106:5000
+http://81.182.215.190:8000/play/viasat3?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3 (HD)
 http://5.38.254.188:9090/play/viasat3hd
 #EXTINF:-1,HU | Viasat 6
@@ -78,13 +78,13 @@ http://79.120.253.244:4000/udp/239.1.1.55:5000
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
 http://94.21.131.253:2225/play/animalplanethd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World
-http://79.120.253.244:4000/udp/239.1.1.83:5000
+http://81.182.215.190:8000/play/digiworld?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
 http://37.152.135.169:9002/play/a005
 #EXTINF:-1,HU | Digi Animal World
 http://81.182.215.190:8000/play/digianimal?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,HU | Digi Animal World (HD)
-http://79.120.253.244:4000/udp/239.1.1.217:5000
+http://81.182.215.190:8000/play/digianimalworldhd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,HU | Digi Life
 http://81.182.215.190:8000/play/digilife?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,HU | Digi Life (HD)
