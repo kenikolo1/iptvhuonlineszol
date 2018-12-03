@@ -8,7 +8,7 @@ http://79.120.253.244:4000/udp/239.1.1.176:5000
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2 (HD)
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/b/b6/M3_logo.png",HU | M3
-http://164.132.136.176:8888/0072
+http://188.143.40.147:9981/stream/channelid/631102721?ticket=62B32DE24EDF75E5B52DAD19677A3B64C1E87204&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport
 http://79.120.253.244:4000/udp/239.1.1.227:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
