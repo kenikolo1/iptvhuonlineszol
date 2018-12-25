@@ -8,9 +8,9 @@ http://84.2.248.168:8001/1:0:1:778F:2C2:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/A_Pet%C5%91fi_TV_log%C3%B3ja-300x185.png",HU | M2 (HD)
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/b/b6/M3_logo.png",HU | M3
-http://84.2.248.168:8001/1:0:1:79E2:2C8:600:E080000:0:0:0:
+http://37.152.135.169:9002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport
-http://79.120.253.244:4000/udp/239.1.1.227:5000
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",HU | M4 Sport (HD)
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1 tvg-logo="https://onlinestream.hu/logos/5904.png",HU | M5
@@ -28,17 +28,17 @@ http://81.182.215.190:8000/play/dunaworldhd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6Akhlt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",HU | RTL Klub (HD)
-http://5.38.254.188:9090/play/rtlhd
+http://37.152.135.169:9002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2 (HD)
-http://81.182.215.190:8000/play/tv2hd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
+http://37.152.135.169:9002/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3
 http://84.2.248.168:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3 (HD)
 http://5.38.254.188:9090/play/viasat3hd
 #EXTINF:-1,HU | Viasat 6
-http://84.2.248.168:8001/1:0:1:2B0A:B:1111:E082F3C:0:0:0:
+http://185.132.134.39:80/fazli/fazli/10075
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+
 http://37.220.128.130:9100/01
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png",HU | Film+ (HD)
@@ -51,8 +51,8 @@ http://5.38.254.188:9090/play/cinemaxhd
 http://79.120.253.244:4000/udp/239.1.1.24:5000
 #EXTINF:-1 tvg-logo="https://24.hu/app/uploads/2016/08/cinemax2_black.png",HU | Cinemax 2 (HD)
 http://5.38.254.188:9090/play/cinemax2hd
-#EXTINF:-1,HU | FilmBox (Több nyelven)
-http://5.38.254.188:9090/play/filmbox
+#EXTINF:-1,HU | FilmBox
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9502
 #EXTINF:-1 tvg-logo="https://24.p3k.hu/app/uploads/2015/11/th_800_500_filmbox-premium-e1448281674822.jpg",HU | FilmBox Premium
 http://79.120.253.244:4000/udp/239.1.1.127:5000
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/11/filmbox-premium-package-e1542041002137.png",HU | FilmBox Extra HD
@@ -74,15 +74,15 @@ http://79.120.253.244:4000/udp/239.1.3.42:5000
 #EXTINF:-1,HU | BBC Earth
 http://81.182.215.190:8000/play/bbcearth?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
-http://84.2.248.168:8001/1:0:1:77F0:2C3:600:E080000:0:0:0:
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9518
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet (HD)
 http://94.21.131.253:2225/play/animalplanethd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World
-http://81.182.215.190:8000/play/digiworld?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9446
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
 http://37.152.135.169:9002/play/a005
 #EXTINF:-1,HU | Digi Animal World
-http://81.182.215.190:8000/play/digianimal?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9450
 #EXTINF:-1,HU | Digi Animal World (HD)
 http://81.182.215.190:8000/play/digianimalworldhd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,HU | Digi Life
@@ -90,13 +90,13 @@ http://81.182.215.190:8000/play/digilife?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6
 #EXTINF:-1,HU | Digi Life (HD)
 http://79.120.253.244:4000/udp/239.1.1.82:5000
 #EXTINF:-1 tvg-logo="http://digi.hu/sites/default/themes/digi/img/fn_hover.png",HU | FilmNow
-http://84.2.248.168:8001/1:0:1:41A:3:1:E082F62:0:0:0:
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9448
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",HU | FilmCafe
-http://5.38.254.188:9090/play/filmcafe
+http://185.132.134.39:80/fazli/fazli/10114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",HU | FilmCafe (HD)
 http://79.120.253.244:4000/udp/239.1.1.253:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel
-http://84.2.248.168:8001/1:0:1:7984:2C7:600:E080000:0:0:0:
+http://portal.geniptv.com:8080/mxqvgc9oBW/JGdcLfSWRB/9461
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png",HU | Travel Channel (HD)
 http://79.120.253.244:4000/udp/239.1.1.169:5000
 #EXTINF:-1,HU | Fine Living
