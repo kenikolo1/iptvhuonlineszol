@@ -67,6 +67,8 @@ http://80.87.208.158:80/dna-4611-tv-pc.m3u8
 http://80.87.208.158:80/dna-4571-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png",EN | FashionBox (HD)
 http://80.87.208.158:80/dna-4591-tv-pc.m3u8
+#EXTINF:-1,EN | Fashion 4K
+http://87.134.92.205:9981/stream/channelid/237051705
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://31.208.124.150:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel (HD)
@@ -303,16 +305,142 @@ http://79.120.253.244:4000/udp/239.1.1.197:5000
 http://213.81.182.127:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
 http://213.81.182.127:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
-#EXTINF:-1,EN | Sky News
-http://79.120.253.244:4000/udp/239.1.1.243:5000
-#EXTINF:-1,HU | EuroNews
-http://79.120.253.244:4000/udp/239.1.1.181:5000
-#EXTINF:-1,EN | CNN
-http://81.182.215.190:8000/play/cnn?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
-#EXTINF:-1,DE | KIKA
-http://79.120.253.244:4000/udp/239.1.1.238:5000
+#EXTINF:-1,DE | NITRO
+http://87.134.92.205:9981/stream/channelid/1343174791
+#EXTINF:-1,DE | ONE
+http://87.134.92.205:9981/stream/channelid/529569987
+#EXTINF:-1,DE | ONE (HD)
+http://87.134.92.205:9981/stream/channelid/631660400
+#EXTINF:-1,DE | Schau TV HD
+http://87.134.92.205:9981/stream/channelid/400851299
+#EXTINF:-1,DE | SIXX
+http://87.134.92.205:9981/stream/channelid/648062939
 #EXTINF:-1,DE | Das Erste
 http://87.134.92.205:9981/stream/channelid/621170158
+#EXTINF:-1,DE | Das Erste HD
+http://87.134.92.205:9981/stream/channelid/1981168731
+#EXTINF:-1,DE | ZDF
+http://87.134.92.205:9981/stream/channelid/321829181
+#EXTINF:-1,DE | ZDF HD
+http://87.134.92.205:9981/stream/channelid/1870139570
+#EXTINF:-1,DE | SWR Fernsehen BW
+http://87.134.92.205:9981/stream/channelid/73057380
+#EXTINF:-1,DE | SWR BW HD
+http://87.134.92.205:9981/stream/channelid/2134413888
+#EXTINF:-1,DE | RTL Television
+http://87.134.92.205:9981/stream/channelid/555393843
+#EXTINF:-1,DE | SAT.1
+http://87.134.92.205:9981/stream/channelid/408129065
+#EXTINF:-1,DE | RTL2
+http://87.134.92.205:9981/stream/channelid/483966780
+#EXTINF:-1,DE | ProSieben
+http://87.134.92.205:9981/stream/channelid/1753999418
+#EXTINF:-1,DE | 3sat
+http://87.134.92.205:9981/stream/channelid/2046076845
+#EXTINF:-1,DE | 3sat HD
+http://87.134.92.205:9981/stream/channelid/1694800782
+#EXTINF:-1,DE | VOX
+http://87.134.92.205:9981/stream/channelid/1936274329
+#EXTINF:-1,DE | kabel eins
+http://87.134.92.205:9981/stream/channelid/800443124
+#EXTINF:-1,DE | n-tv
+http://87.134.92.205:9981/stream/channelid/84466887
+#EXTINF:-1,DE | arte
+http://87.134.92.205:9981/stream/channelid/282946607
+#EXTINF:-1,DE | arte HD
+http://87.134.92.205:9981/stream/channelid/574454523
+#EXTINF:-1,DE | PHOENIX
+http://87.134.92.205:9981/stream/channelid/188033200
+#EXTINF:-1,DE | TOGGO plus
+http://87.134.92.205:9981/stream/channelid/813019996
+#EXTINF:-1,DE | zdf_neo
+http://87.134.92.205:9981/stream/channelid/1019494666
+#EXTINF:-1,DE | KiKA
+http://87.134.92.205:9981/stream/channelid/1918786735
+#EXTINF:-1,DE | KiKA HD
+http://87.134.92.205:9981/stream/channelid/1344469629
+#EXTINF:-1,DE | MDR Sachsen HD
+http://87.134.92.205:9981/stream/channelid/153107138
+#EXTINF:-1,DE | RTLplus
+http://87.134.92.205:9981/stream/channelid/293258959
+#EXTINF:-1,DE | SAT.1 Gold
+http://87.134.92.205:9981/stream/channelid/402800737
+#EXTINF:-1,DE | rbb Berlin
+http://87.134.92.205:9981/stream/channelid/450101247
+#EXTINF:-1,DE | SR Fernsehen HD
+http://87.134.92.205:9981/stream/channelid/494663219
+#EXTINF:-1,EN | BBC World News Europe HD
+http://87.134.92.205:9981/stream/channelid/620003058
+#EXTINF:-1,EN | CNN
+http://87.134.92.205:9981/stream/channelid/633022920
+#EXTINF:-1,DE | PHOENIX (HD)
+http://87.134.92.205:9981/stream/channelid/1057355115
+#EXTINF:-1,DE | tagesschau24
+http://87.134.92.205:9981/stream/channelid/949360283
+#EXTINF:-1,DE | tagesschau24 (HD)
+http://87.134.92.205:9981/stream/channelid/1230112205
+#EXTINF:-1,DE | WDR Köln
+http://87.134.92.205:9981/stream/channelid/327160230
+#EXTINF:-1,DE | WDR HD Köln
+http://87.134.92.205:9981/stream/channelid/1308020198
+#EXTINF:-1,DE | N24 DOKU
+http://87.134.92.205:9981/stream/channelid/1331305354
+#EXTINF:-1,DE | ZDFinfo
+http://87.134.92.205:9981/stream/channelid/1949619477
+#EXTINF:-1,DE | ZDFinfo (HD)
+http://87.134.92.205:9981/stream/channelid/1344650566
+#EXTINF:-1,DE | hr-fernsehen
+http://87.134.92.205:9981/stream/channelid/1372437813
+#EXTINF:-1,DE | SR Fernsehen
+http://87.134.92.205:9981/stream/channelid/1416415312
+#EXTINF:-1,DE | BR Fernsehen Süd
+http://87.134.92.205:9981/stream/channelid/1420089469
+#EXTINF:-1,DE | hr-fernsehen (HD)
+http://87.134.92.205:9981/stream/channelid/1480398959
+#EXTINF:-1,DE | SCHWEIZ 5
+http://87.134.92.205:9981/stream/channelid/1493216261
+#EXTINF:-1,DE | SUPER RTL
+http://87.134.92.205:9981/stream/channelid/1646687582
+#EXTINF:-1,DE | TELE 5
+http://87.134.92.205:9981/stream/channelid/1655484721
+#EXTINF:-1,DE | Pro7 MAXX
+http://87.134.92.205:9981/stream/channelid/1706130737
+#EXTINF:-1,DE | MDR Sachsen
+http://87.134.92.205:9981/stream/channelid/1711115841
+#EXTINF:-1,DE | rbb Berlin (HD)
+http://87.134.92.205:9981/stream/channelid/1855588443
+#EXTINF:-1,DE | zdf_neo (HD)
+http://87.134.92.205:9981/stream/channelid/1890519811
+#EXTINF:-1,DE | NDR FS HH
+http://87.134.92.205:9981/stream/channelid/1917139035
+#EXTINF:-1,DE | ARD-alpha
+http://87.134.92.205:9981/stream/channelid/1938732509
+#EXTINF:-1,DE | kabel eins Doku
+http://87.134.92.205:9981/stream/channelid/1964320805
+#EXTINF:-1,DE | BR Fernsehen Süd (HD)
+http://87.134.92.205:9981/stream/channelid/2087809602
+#EXTINF:-1,EN | CNBC Europe
+http://87.134.92.205:9981/stream/channelid/980768194
+#EXTINF:-1,EN | Bloomberg Europe TV
+http://87.134.92.205:9981/stream/channelid/1027402698
+#EXTINF:-1,EN | Sky News
+http://87.134.92.205:9981/stream/channelid/1037549028
+#EXTINF:-1,DE | R9 Oesterreich (HD)
+http://87.134.92.205:9981/stream/channelid/1559697518
+#EXTINF:-1,DE | ORF2E
+http://87.134.92.205:9981/stream/channelid/1960865601
+#EXTINF:-1,DE | DMAX
+http://87.134.92.205:9981/stream/channelid/2109149519
+#EXTINF:-1,DE | NDR FS HH (HD)
+http://87.134.92.205:9981/stream/channelid/2116942852
+#EXTINF:-1,DE | DELUXE MUSIC
+http://87.134.92.205:9981/stream/channelid/220193510
+#EXTINF:-1,DE | ANIXE
+http://87.134.92.205:9981/stream/channelid/892167846
+#EXTINF:-1,DE | ANIXE (HD)
+http://87.134.92.205:9981/stream/channelid/1917527595
+#EXTINF:-1,FR | TV5 MONDE
+http://87.134.92.205:9981/stream/channelid/1729402968
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
