@@ -34,7 +34,7 @@ http://152.66.115.226:33390/bysid/204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2_logo.png/250px-TV2_logo.png",HU | TV2 (HD)
 http://37.152.135.169:9002/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3
-http://95.102.254.246:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:
+http://213.81.182.127:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TV3_logo.png/200px-TV3_logo.png",HU | Viasat 3 (HD)
 http://5.38.254.188:9090/play/viasat3hd
 #EXTINF:-1,HU | Viasat 6
