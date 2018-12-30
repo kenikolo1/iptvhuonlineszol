@@ -311,6 +311,8 @@ http://79.120.253.244:4000/udp/239.1.1.181:5000
 http://81.182.215.190:8000/play/cnn?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,DE | KIKA
 http://79.120.253.244:4000/udp/239.1.1.238:5000
+#EXTINF:-1,DE | Das Erste
+http://87.134.92.205:9981/stream/channelid/621170158
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
