@@ -208,9 +208,9 @@ http://79.120.253.244:4000/udp/239.1.1.170:5000
 #EXTINF:-1,EN | Mezzo (HD)
 http://5.38.254.188:9090/play/mezzohd
 #EXTINF:-1,HU | Music Channel
-http://79.120.253.244:4000/udp/239.1.1.140:5000
-#EXTINF:-1,HU | Music Channel (HD)
-http://81.182.215.190:8000/play/musicchannelhd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
+http://1music.hu/1music.m3u8
+#EXTINF:-1,HU | H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,EN | VH1
 http://81.182.215.190:8000/play/vh1europe?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,EN | VH1 Classic
@@ -439,6 +439,8 @@ http://87.134.92.205:9981/stream/channelid/1917527595
 http://87.134.92.205:9981/stream/channelid/1729402968
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
+#EXTINF:-1,HU | StreamSport
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6162.png",HU | Zenebutik
 http:\\213.81.182.127:8001\1:0:1:798E:2C7:600:E080000:0:0:0:
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/6163.png",HU | Izaura TV
@@ -469,6 +471,8 @@ https://cloudfront41.lexanetwork.com:1440/hlsrelay013/hls/livestream.sdp.m3u8
 https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
 #EXTINF:-1,Helyi | Fehérvár TV
 https://cloudfront44.lexanetwork.com:1440/HDE016/hls/livestream.sdp.m3u8
+#EXTINF:-1,Helyi | Alföld TV (HD)
+https://cloudfront20.lexanetwork.com:1440/hlsrelay007/hls/livestream.sdp.m3u8
 #EXTINF:-1,Helyi | Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1440/hlsrelay017/hls/livestream.sdp.m3u8
 #EXTINF:-1,Helyi | Szombathelyi TV
