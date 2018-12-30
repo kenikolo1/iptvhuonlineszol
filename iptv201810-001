@@ -311,13 +311,13 @@ http://87.134.92.205:9981/stream/channelid/1343174791
 http://87.134.92.205:9981/stream/channelid/529569987
 #EXTINF:-1,DE | ONE (HD)
 http://87.134.92.205:9981/stream/channelid/631660400
-#EXTINF:-1,DE | Schau TV HD
+#EXTINF:-1,DE | Schau TV (HD)
 http://87.134.92.205:9981/stream/channelid/400851299
 #EXTINF:-1,DE | SIXX
 http://87.134.92.205:9981/stream/channelid/648062939
 #EXTINF:-1,DE | Das Erste
 http://87.134.92.205:9981/stream/channelid/621170158
-#EXTINF:-1,DE | Das Erste HD
+#EXTINF:-1,DE | Das Erste (HD)
 http://87.134.92.205:9981/stream/channelid/1981168731
 #EXTINF:-1,DE | ZDF
 http://87.134.92.205:9981/stream/channelid/321829181
@@ -325,7 +325,7 @@ http://87.134.92.205:9981/stream/channelid/321829181
 http://87.134.92.205:9981/stream/channelid/1870139570
 #EXTINF:-1,DE | SWR Fernsehen BW
 http://87.134.92.205:9981/stream/channelid/73057380
-#EXTINF:-1,DE | SWR BW HD
+#EXTINF:-1,DE | SWR BW (HD)
 http://87.134.92.205:9981/stream/channelid/2134413888
 #EXTINF:-1,DE | RTL Television
 http://87.134.92.205:9981/stream/channelid/555393843
@@ -337,7 +337,7 @@ http://87.134.92.205:9981/stream/channelid/483966780
 http://87.134.92.205:9981/stream/channelid/1753999418
 #EXTINF:-1,DE | 3sat
 http://87.134.92.205:9981/stream/channelid/2046076845
-#EXTINF:-1,DE | 3sat HD
+#EXTINF:-1,DE | 3sat (HD)
 http://87.134.92.205:9981/stream/channelid/1694800782
 #EXTINF:-1,DE | VOX
 http://87.134.92.205:9981/stream/channelid/1936274329
@@ -347,34 +347,36 @@ http://87.134.92.205:9981/stream/channelid/800443124
 http://87.134.92.205:9981/stream/channelid/84466887
 #EXTINF:-1,DE | arte
 http://87.134.92.205:9981/stream/channelid/282946607
-#EXTINF:-1,DE | arte HD
+#EXTINF:-1,DE | arte (HD)
 http://87.134.92.205:9981/stream/channelid/574454523
 #EXTINF:-1,DE | PHOENIX
 http://87.134.92.205:9981/stream/channelid/188033200
+#EXTINF:-1,DE | PHOENIX (HD)
+http://87.134.92.205:9981/stream/channelid/1057355115
 #EXTINF:-1,DE | TOGGO plus
 http://87.134.92.205:9981/stream/channelid/813019996
 #EXTINF:-1,DE | zdf_neo
 http://87.134.92.205:9981/stream/channelid/1019494666
+#EXTINF:-1,DE | zdf_neo (HD)
+http://87.134.92.205:9981/stream/channelid/1890519811
 #EXTINF:-1,DE | KiKA
 http://87.134.92.205:9981/stream/channelid/1918786735
-#EXTINF:-1,DE | KiKA HD
+#EXTINF:-1,DE | KiKA (HD)
 http://87.134.92.205:9981/stream/channelid/1344469629
-#EXTINF:-1,DE | MDR Sachsen HD
+#EXTINF:-1,DE | MDR Sachsen
+http://87.134.92.205:9981/stream/channelid/1711115841
+#EXTINF:-1,DE | MDR Sachsen (HD)
 http://87.134.92.205:9981/stream/channelid/153107138
 #EXTINF:-1,DE | RTLplus
 http://87.134.92.205:9981/stream/channelid/293258959
 #EXTINF:-1,DE | SAT.1 Gold
 http://87.134.92.205:9981/stream/channelid/402800737
-#EXTINF:-1,DE | rbb Berlin
-http://87.134.92.205:9981/stream/channelid/450101247
 #EXTINF:-1,DE | SR Fernsehen HD
 http://87.134.92.205:9981/stream/channelid/494663219
 #EXTINF:-1,EN | BBC World News Europe HD
 http://87.134.92.205:9981/stream/channelid/620003058
 #EXTINF:-1,EN | CNN
 http://87.134.92.205:9981/stream/channelid/633022920
-#EXTINF:-1,DE | PHOENIX (HD)
-http://87.134.92.205:9981/stream/channelid/1057355115
 #EXTINF:-1,DE | tagesschau24
 http://87.134.92.205:9981/stream/channelid/949360283
 #EXTINF:-1,DE | tagesschau24 (HD)
@@ -405,12 +407,10 @@ http://87.134.92.205:9981/stream/channelid/1646687582
 http://87.134.92.205:9981/stream/channelid/1655484721
 #EXTINF:-1,DE | Pro7 MAXX
 http://87.134.92.205:9981/stream/channelid/1706130737
-#EXTINF:-1,DE | MDR Sachsen
-http://87.134.92.205:9981/stream/channelid/1711115841
+#EXTINF:-1,DE | rbb Berlin
+http://87.134.92.205:9981/stream/channelid/450101247
 #EXTINF:-1,DE | rbb Berlin (HD)
 http://87.134.92.205:9981/stream/channelid/1855588443
-#EXTINF:-1,DE | zdf_neo (HD)
-http://87.134.92.205:9981/stream/channelid/1890519811
 #EXTINF:-1,DE | NDR FS HH
 http://87.134.92.205:9981/stream/channelid/1917139035
 #EXTINF:-1,DE | ARD-alpha
