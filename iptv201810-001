@@ -131,8 +131,8 @@ http://213.81.182.127:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:
 http://5.38.254.188:9090/play/kiwi
 #EXTINF:-1,HU | AMC
 http://213.81.182.127:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
-#EXTINF:-1,HU | AMC (HD)
-http://79.120.253.244:4000/udp/239.1.1.249:5000
+#EXTINF:-1,HU | AMC (HD/Korlátozott)
+http://streams.iptv.zone:80/p/472804/c/123/u/173241/Px5qDh2QPtK8Nsa8ZQJQw0gcEG7ppV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
 http://81.182.215.190:8000/play/moziplusz?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD/Korlátozott)
@@ -323,10 +323,6 @@ http://87.134.92.205:9981/stream/channelid/1981168731
 http://87.134.92.205:9981/stream/channelid/321829181
 #EXTINF:-1,DE | ZDF HD
 http://87.134.92.205:9981/stream/channelid/1870139570
-#EXTINF:-1,DE | SWR Fernsehen BW
-http://87.134.92.205:9981/stream/channelid/73057380
-#EXTINF:-1,DE | SWR BW (HD)
-http://87.134.92.205:9981/stream/channelid/2134413888
 #EXTINF:-1,DE | RTL Television
 http://87.134.92.205:9981/stream/channelid/555393843
 #EXTINF:-1,DE | SAT.1
