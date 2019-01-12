@@ -116,7 +116,7 @@ http://81.182.215.190:8000/play/cooltvhd?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6
 #EXTINF:-1 tvg-logo="http://www.minimax.hu/Minimax/minimax_fb_200x200.jpg",HU | Minimax
 http://46.139.226.253:8001/1:0:1:7605:2BE:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",HU | Boomerang
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9513
+http://78.45.82.88:8001/1:0:1:77F6:2C3:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg",HU | Duck TV
 http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png",HU | Cartoon Network
@@ -124,7 +124,7 @@ http://84.2.242.12:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://epgsites.azurewebsites.net/wp-content/uploads/2017/02/Megamax_.png",HU | Megamax
 http://46.139.238.136:8001/1:0:1:797D:2C7:600:E080000:0:0:0:
 #EXTINF:-1,HU | JimJam
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/10123
+http://78.45.82.88:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU | Kiwi TV
 http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9491
 #EXTINF:-1,HU | AMC
@@ -156,7 +156,7 @@ http://46.139.238.136:8001/1:0:1:798A:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg",HU | History (HD)
 http://213.81.182.127:8001/1:0:19:773C:2C1:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/FEM3_New_Logo.svg.png",HU | FEM3
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9438
+http://78.45.82.88:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png",HU | TV4
 http://84.2.242.12:8001/1:0:1:7989:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Story4_2018_logo.png",HU | Story4
@@ -176,7 +176,7 @@ http://37.152.135.169:9002/play/a002
 #EXTINF:-1,HU | Digi Sport 2 (HD)
 http://37.152.135.169:9002/play/a006
 #EXTINF:-1,HU | Digi Sport 3
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9509
+http://78.45.82.88:8001/1:0:1:407:3:1:E082F62:0:0:0:
 #EXTINF:-1,HU | Digi Sport 3 (HD)
 http://79.120.253.244:4000/udp/239.1.1.243:5000
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png?ssl=1",HU | Eurosport 1 (HD)
@@ -198,7 +198,7 @@ http://188.156.103.111:8001/1:0:1:1FA:1B:2C0:E080000:0:0:0:
 #EXTINF:-1,EN | MTV Rock
 http://213.81.182.127:8001/1:0:1:1FF:1B:2C0:E080000:0:0:0:
 #EXTINF:-1,EN | MTV Dance
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9432
+http://78.45.82.88:8001/1:0:1:1FD:1B:2C0:E080000:0:0:0:
 #EXTINF:-1,EN | MTV Hits
 http://213.81.182.127:8001/1:0:1:1FC:1B:2C0:E080000:0:0:0:
 #EXTINF:-1,EN | MTV Live (HD)
@@ -218,13 +218,13 @@ http://87.197.190.213:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf",HU | Discovery Channel (HD)
 http://5.38.254.188:9090/play/dischd
 #EXTINF:-1,HU | Discovery Science
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9508
+http://78.45.82.88:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU | Discovery Showcase HD
 http://31.46.214.246:8001/1:0:19:7921:2C6:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/viasat_history_wide.png?itok=1-fcGLEE",HU | Viasat History
 http://84.2.242.12:8001/1:0:1:7982:2C7:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",HU | Nickelodeon
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9482
+http://78.45.82.88:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2
 http://37.220.128.130:9035/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",HU | Super TV2 (HD)
@@ -248,11 +248,11 @@ http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/51379
 #EXTINF:-1,HU | HBO 3 (HD)
 http://5.38.254.188:9090/play/hbo3hd
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/prime_wide.png?itok=pT-r8PXT",HU | Prime
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9478
+http://78.45.82.88:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Spike_Hunary_logo.png",HU | RTL Spike
 http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9473
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/Sport1Logo.png",HU | Sport 1
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9467
+http://78.45.82.88:8001/1:0:1:7598:2BD:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/SPORT2logo.png",HU | Sport 1 (HD)
 http://84.2.149.98:8001/1:0:19:7727:2C1:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.profiboksz.hu/images/tv/SPORT2logo.png",HU | Sport 2
@@ -266,7 +266,7 @@ http://87.197.190.213:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Spiler2_tv_logo.png",HU | Spíler2 TV
 http://178.248.200.126:8000/udp/239.200.1.96:5510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Spiler2_tv_logo.png",HU | Spíler2 TV (TESZT)
-http://79.120.253.244:4000/udp/239.1.3.64:5000
+http://78.45.82.88:8001/1:0:1:A0A:5:1:E082E09:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Spiler2_tv_logo.png",HU | Spíler2 TV (HD)
 http://79.120.253.244:4000/udp/239.1.3.65:5000
 #EXTINF:-1 tvg-logo="http://www.tvpaprika.hu/tvpaprika/img/TVPAPRIKAlogofeliratnelkul_small.JPG",HU | TV Paprika
@@ -284,23 +284,23 @@ rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1 tvg-logo="http://onlineszol.tk/wp-content/uploads/2018/07/FIXTV_logo_lila-300x169.png",HU | FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU | DOQ
-http://79.120.253.244:4000/udp/239.1.1.136:5000
+http://78.45.82.88:8001/1:0:1:79FB:2C8:600:E080000:0:0:0:
 #EXTINF:-1,HU | DTX
 http://213.81.182.127:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU | Extreme Sports Channel
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9506
+http://78.45.82.88:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting
 http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9424
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5922.png",HU | Fishing & Hunting (HD)
 http://5.38.254.188:9090/play/fishhd
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic
-http://46.139.238.136:8001/1:0:1:7980:2C7:600:E080000:0:0:0:
-#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic (HD/Több nyelven)
+http://78.45.82.88:8001/1:0:1:7980:2C7:600:E080000:0:0:0:
+#EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic (HD)
 http://79.120.253.244:4000/udp/239.1.1.197:5000
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9484
+http://78.45.82.88:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5936.png",HU | National Geographic Wild (HD)
-http://213.81.182.127:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
+http://78.45.82.88:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
 #EXTINF:-1,HU tvg-logo="https://onlinestream.hu/logos/5829.png",HU | StreamART
 http://videocloud61.onstreaming.de:1935/liverelay/nasstream.sdp/playlist.m3u8
 #EXTINF:-1,HU | StreamSport
