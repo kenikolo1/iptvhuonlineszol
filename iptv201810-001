@@ -80,7 +80,7 @@ http://188.156.103.111:8001/1:0:19:7923:2C6:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/51394
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Digi_World.png",HU | Digi World (HD)
-http://37.152.135.169:9002/play/a005
+http://37.152.135.169:9002/play/a005/index.m3u8
 #EXTINF:-1,HU | Digi Animal World (Több nyelven)
 http://84.2.242.12:8001/1:0:1:177A:7:1:E082E56:0:0:0:
 #EXTINF:-1,HU | Digi Life
