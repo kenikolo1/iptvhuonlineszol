@@ -59,14 +59,14 @@ http://31.208.14.248:8001/1:0:19:773B:2C1:600:E080000:0:0:0:
 http://31.208.14.248:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/filmbox_plus_wide.png?itok=ZzMy9vxz",HU | FilmBox Plus
 http://31.208.14.248:8001/1:0:1:7609:2BE:600:E080000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png",EN | DocuBox (HD)
-http://80.87.208.158:80/dna-4611-tv-pc.m3u8
-#EXTINF:-1 tvg-logo="https://kinet.sk/wp-content/uploads/2015/02/fight-box-hd.png",EN | FightBox (HD)
-http://80.87.208.158:80/dna-4571-tv-pc.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png",EN | FashionBox (HD)
-http://80.87.208.158:80/dna-4591-tv-pc.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png",EN | DocuBox
+http://178.132.220.2:8001/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://kinet.sk/wp-content/uploads/2015/02/fight-box-hd.png",EN | FightBox (Több nyelven)
+http://178.132.220.2:8001/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png",EN | FashionBox
+http://178.132.220.2:8001/play/a01c/index.m3u8
 #EXTINF:-1,EN | Fashion 4K
-http://87.134.92.205:9981/stream/channelid/237051705
+http://persik.by/stream/4451/252681/10317.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://31.208.14.248:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel (HD)
