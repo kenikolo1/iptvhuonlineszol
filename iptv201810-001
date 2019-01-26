@@ -135,6 +135,8 @@ http://streams.iptv.zone:80/p/472804/c/123/u/173241/Px5qDh2QPtK8Nsa8ZQJQw0gcEG7p
 http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9489
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD/Korlátozott)
 http://streams.iptv.zone:80/p/472804/c/161/u/173241/Px5qDh2QPtK8Nsa8ZQJQw0gcEG7ppV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD/TESZT)
+http://5.38.235.131:9090/play/moziplushd
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/lichi_tv_wide.png?itok=n7pKapzL",HU | Lichi TV
 http://81.182.215.190:8000/play/lichitv?fbclid=IwAR2Bm-qERBp2aJOsxgCxz6AkhltQW6aCBpTAP7vLsFhuoTYr3GnyZhinnJQ
 #EXTINF:-1,HU | Sony Max
