@@ -70,7 +70,7 @@ http://persik.by/stream/4451/252681/10317.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel
 http://134.255.53.25:9000/stream/channelid/742328996
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/paramount_channel_wide.png?itok=_J2qBpjP",HU | Paramount Channel (HD)
-http://79.120.253.244:4000/udp/239.1.3.42:5000
+http://91.83.200.94:4000/udp/239.1.3.49:5000
 #EXTINF:-1,HU | BBC Earth
 http://92.249.140.229:7522/upnp/channelstream/150
 #EXTINF:-1 tvg-logo="http://ecolounge.hu/upload/gallery/1089/thumb500x333/Animal_Planet_logo.png",HU | Animal Palnet
