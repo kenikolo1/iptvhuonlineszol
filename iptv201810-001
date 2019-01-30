@@ -100,7 +100,7 @@ http://5.38.235.131:9090/play/a023
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/CHELLO_FILMMANNIA_Logo.jpg",HU | FilmMánia
 http://134.255.53.25:9000/stream/channelid/486623197
 #EXTINF:-1 tvg-logo="https://zoldunio.hu/images/szakmai-partnerek/OzoneTv/logo-betekinto-OzoneTv.png",HU | Life TV
-http://92.249.140.229:7522/upnp/channelstream/76
+http://91.83.200.94:4000/udp/239.1.1.103:5000
 #EXTINF:-1,HU | Ozone TV
 http://31.208.14.248:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
@@ -132,7 +132,7 @@ http://5.38.235.131:9090/play/amc
 #EXTINF:-1,HU | AMC (HD/Korlátozott)
 http://streams.iptv.zone:80/p/472804/c/123/u/173241/Px5qDh2QPtK8Nsa8ZQJQw0gcEG7ppV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+
-http://92.249.140.229:7522/upnp/channelstream/42
+http://tv.iptvpanel.tv:80/live/kellaweblap/1kgiod631y/13270.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD/Korlátozott)
 http://streams.iptv.zone:80/p/472804/c/161/u/173241/Px5qDh2QPtK8Nsa8ZQJQw0gcEG7ppV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2000px-Mozi%2B_logo.svg.png",HU | Mozi+ (HD/TESZT)
@@ -202,7 +202,7 @@ http://134.255.53.25:9000/stream/channelid/158694144
 #EXTINF:-1,EN | MTV Hits
 http://134.255.53.25:9000/stream/channelid/1203230812
 #EXTINF:-1,EN | MTV Live (HD)
-http://31.180.72.68:4022/udp/225.23.43.10:5000
+http://91.83.200.94:4000/udp/239.1.1.170:5000
 #EXTINF:-1,EN | Mezzo (HD)
 http://5.38.235.131:9090/play/mezzohd
 #EXTINF:-1,HU | Music Channel
@@ -232,7 +232,7 @@ http://92.249.140.229:7522/upnp/channelstream/27
 #EXTINF:-1,HU | Spektrum
 http://134.255.53.25:9000/stream/channelid/1147752509
 #EXTINF:-1,HU | Spektrum (HD)
-http://energyiptv.streamtv.to:8080/ekADXmt5rd/CJ64kIPMaE/9470
+http://91.83.200.94:4000/udp/239.1.1.186:5000
 #EXTINF:-1,HU | Spektrum Home
 http://134.255.53.25:9000/stream/channelid/1584192872
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HU | HBO
