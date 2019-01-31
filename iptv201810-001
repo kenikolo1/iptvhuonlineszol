@@ -106,7 +106,7 @@ http://31.208.14.248:8001/1:0:1:A82:4:1:E08AF9B:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg",HU | RTL Gold
 http://90.95.48.45:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2
-http://90.95.48.45:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:
+http://134.255.53.25:9000/stream/channelid/1108090159
 #EXTINF:-1 tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/10/rtl2-logo.jpg",HU | RTL 2 (HD)
 http://92.249.140.229:7522/upnp/channelstream/108
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cool_TV_2014.png",HU | Cool
