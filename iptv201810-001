@@ -162,7 +162,7 @@ http://134.255.53.25:9000/stream/channelid/270357474
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png",HU | TV4
 http://134.255.53.25:9000/stream/channelid/351827564
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Story4_2018_logo.png",HU | Story4
-http://134.255.53.25:9000/stream/channelid/168104470
+http://134.255.53.25:9000/stream/channelid/1442004683
 #EXTINF:-1,HU | Galaxy4
 http://5.38.235.131:9090/play/galaxy4
 #EXTINF:-1,HU | Film4
